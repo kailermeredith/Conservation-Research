@@ -1,0 +1,946 @@
+# Conservation Renewal Agenda
+
+## Deliverable 3 — Conservation Systems Map
+
+**Project:** Conservation Renewal Agenda
+**Version:** 0.3.0
+**Status:** Initial institutional and governance map
+**Geographic scope:** United States, including federal, state, Tribal, territorial, and local governments
+**Primary purpose:** Identify the institutions, authorities, funding mechanisms, and relationships that collectively constitute American conservation governance
+
+---
+
+# Executive Summary
+
+American conservation is not administered by a single governmental system.
+
+It is a **multi-level governance network** in which federal, state, Tribal, territorial, local, private, nonprofit, and academic institutions exercise different forms of authority over natural resources.
+
+The federal government manages substantial public lands and waters and administers major wildlife, fisheries, environmental, scientific, and conservation programs. States retain extensive authority over wildlife, freshwater fisheries, state lands, water allocation, and numerous environmental programs. Tribal Nations exercise sovereign governmental authorities and treaty rights and increasingly participate in co-management and shared decision-making. Local governments influence conservation through land-use planning, water management, parks, infrastructure, and development decisions.
+
+Private landowners, agricultural producers, conservation organizations, universities, and other nongovernmental actors constitute another major component of the system.
+
+This structure produces several advantages:
+
+* specialization;
+* local knowledge;
+* institutional diversity;
+* multiple sources of funding;
+* experimentation among states and localities;
+* opportunities for partnerships; and
+* redundancy when one institution is unable to act.
+
+It also creates recurring challenges:
+
+* fragmented authority;
+* overlapping jurisdictions;
+* inconsistent objectives;
+* incompatible data systems;
+* uneven institutional capacity;
+* competing funding priorities;
+* administrative duplication;
+* gaps in responsibility;
+* difficulty managing resources at ecological rather than political scales; and
+* inconsistent measurement of conservation outcomes.
+
+The central finding of this systems map is:
+
+> **American conservation is best understood as a network of interconnected institutions rather than a hierarchy in which one government controls conservation and others merely implement it.**
+
+This distinction will be important for the policy-development stages of American Conservation Renewal.
+
+---
+
+# 1. Purpose
+
+The Conservation Systems Map establishes the institutional architecture underlying American conservation policy.
+
+It seeks to identify:
+
+1. who possesses conservation authority;
+2. who manages public resources;
+3. who funds conservation;
+4. who collects and maintains scientific information;
+5. who implements conservation programs;
+6. where governmental responsibilities overlap;
+7. where ecological systems cross political boundaries; and
+8. where institutional gaps may affect conservation outcomes.
+
+The map is descriptive.
+
+It does not assume that centralized management is preferable to decentralized management, nor that existing institutional arrangements are inherently appropriate.
+
+---
+
+# 2. The Architecture of American Conservation
+
+The national conservation system can be represented as seven interconnected layers.
+
+```text
+                 NATIONAL CONSERVATION SYSTEM
+
+                         ┌───────────────┐
+                         │ Federal Govt. │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+       ┌──────▼──────┐    ┌──────▼──────┐    ┌─────▼──────┐
+       │    States   │    │    Tribes   │    │ Territories│
+       └──────┬──────┘    └──────┬──────┘    └─────┬──────┘
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                         ┌───────▼───────┐
+                         │ Local /       │
+                         │ Regional Govt.│
+                         └───────┬───────┘
+                                 │
+                    ┌────────────▼────────────┐
+                    │ Private & Civil Society │
+                    │ Conservation Actors     │
+                    └────────────┬────────────┘
+                                 │
+                         ┌───────▼───────┐
+                         │ Universities & │
+                         │ Science       │
+                         └───────┬───────┘
+                                 │
+                         ┌───────▼───────┐
+                         │ Natural        │
+                         │ Resources     │
+                         └───────────────┘
+```
+
+The diagram should not be interpreted as a command hierarchy.
+
+The relationships are generally cooperative, contractual, regulatory, statutory, financial, scientific, or jurisdictional rather than purely hierarchical.
+
+---
+
+# 3. Federal Government
+
+The federal government is the largest single institutional actor in national conservation.
+
+Its responsibilities arise from constitutional authority, federal statutes, treaty obligations, appropriations, executive authorities, and ownership or management of federal lands and waters.
+
+## 3.1 U.S. Fish and Wildlife Service
+
+The U.S. Fish and Wildlife Service is the principal federal agency responsible for terrestrial wildlife conservation and administers major programs under statutes including the Endangered Species Act, Migratory Bird Treaty Act, Marine Mammal Protection Act, and National Wildlife Refuge System Administration Act.
+
+Major functions include:
+
+* endangered-species conservation;
+* wildlife refuges;
+* migratory birds;
+* wildlife law enforcement;
+* habitat conservation;
+* species recovery;
+* ecological services;
+* grants to states and Tribes; and
+* international wildlife conservation.
+
+---
+
+## 3.2 NOAA Fisheries
+
+NOAA Fisheries is responsible for federal marine fisheries management and numerous marine and anadromous species programs.
+
+Major functions include:
+
+* fisheries science;
+* stock assessments;
+* fisheries management;
+* protected species;
+* marine habitat;
+* aquaculture oversight;
+* marine ecosystem science; and
+* implementation of federal fisheries statutes.
+
+Its responsibilities intersect extensively with:
+
+* state fisheries agencies;
+* regional fishery management councils;
+* Tribes;
+* international fisheries institutions; and
+* other federal agencies.
+
+---
+
+## 3.3 National Park Service
+
+The National Park Service manages the National Park System and associated natural and cultural resources.
+
+Its conservation responsibilities include:
+
+* ecosystem management;
+* wildlife;
+* habitat;
+* water resources;
+* invasive species;
+* fire management;
+* restoration;
+* ecological monitoring; and
+* preservation of natural processes.
+
+The National Park Service differs from several other federal land-management agencies because preservation is a central statutory component of its mission.
+
+---
+
+## 3.4 Bureau of Land Management
+
+BLM administers approximately 245 million acres of federal land, primarily in the western United States.
+
+Its multiple-use mandate creates an institutional structure in which conservation occurs alongside:
+
+* recreation;
+* grazing;
+* mineral development;
+* renewable energy;
+* timber and vegetation management;
+* wildlife habitat;
+* cultural-resource protection; and
+* other authorized uses.
+
+This makes BLM an important case study in balancing conservation with competing resource uses.
+
+---
+
+## 3.5 U.S. Forest Service
+
+The Forest Service manages national forests and grasslands and administers programs involving:
+
+* forest management;
+* wildlife habitat;
+* watershed protection;
+* wildfire;
+* recreation;
+* timber;
+* grazing;
+* restoration; and
+* research.
+
+Its research arm also provides scientific capacity extending beyond lands directly managed by the agency.
+
+---
+
+## 3.6 U.S. Geological Survey
+
+USGS generally does not function as a conventional land-management agency.
+
+Its importance lies in science.
+
+It provides information concerning:
+
+* wildlife;
+* ecosystems;
+* water;
+* geology;
+* climate;
+* hazards;
+* landscape change;
+* biodiversity; and
+* natural-resource conditions.
+
+This makes USGS a particularly important institution in the relationship between **science and management**.
+
+---
+
+## 3.7 Environmental Protection Agency
+
+EPA's conservation relevance is primarily regulatory and environmental rather than land-management based.
+
+Its responsibilities include:
+
+* water quality;
+* air quality;
+* hazardous substances;
+* pollution control;
+* environmental monitoring;
+* environmental standards; and
+* implementation of major federal environmental statutes.
+
+Its conservation functions intersect particularly strongly with watershed and aquatic ecosystem protection.
+
+---
+
+## 3.8 Natural Resources Conservation Service
+
+NRCS provides conservation assistance primarily on private agricultural and working lands.
+
+Its programs include:
+
+* soil conservation;
+* watershed conservation;
+* habitat improvement;
+* agricultural conservation;
+* easements; and
+* technical assistance.
+
+NRCS illustrates an important feature of American conservation:
+
+> **A substantial portion of national conservation occurs on privately owned land.**
+
+---
+
+# 4. State Governments
+
+States retain extensive natural-resource authority.
+
+State agencies commonly manage:
+
+* resident wildlife;
+* freshwater fisheries;
+* state wildlife areas;
+* state forests;
+* state parks;
+* hunting and fishing regulations;
+* conservation enforcement;
+* water allocation;
+* habitat programs;
+* environmental regulation; and
+* species not governed primarily through federal authority.
+
+State conservation agencies therefore constitute one of the most important components of the national system.
+
+## 4.1 State wildlife agencies
+
+State wildlife agencies are generally responsible for managing:
+
+* game species;
+* nongame wildlife;
+* hunting regulations;
+* wildlife populations;
+* habitat;
+* licensing;
+* enforcement; and
+* wildlife restoration programs.
+
+They frequently operate under a combination of:
+
+* state appropriations;
+* hunting and fishing licenses;
+* federal grants;
+* federal excise-tax programs;
+* conservation grants; and
+* other sources.
+
+---
+
+## 4.2 State fisheries agencies
+
+States generally manage fisheries within state jurisdiction while cooperating with federal agencies on interstate, anadromous, and marine resources.
+
+This creates particularly important federal-state interfaces.
+
+---
+
+## 4.3 State environmental agencies
+
+States frequently implement federal environmental programs through delegated or cooperative authorities.
+
+Examples include aspects of:
+
+* Clean Water Act implementation;
+* Clean Air Act implementation;
+* hazardous-waste regulation;
+* wetlands programs;
+* water-quality monitoring; and
+* environmental permitting.
+
+This creates an important distinction between:
+
+> **federal statutory authority**
+
+and
+
+> **federal administration.**
+
+A federal program may rely extensively on state implementation.
+
+---
+
+# 5. Tribal Governments
+
+Tribal Nations occupy a unique position within the conservation system.
+
+They are not simply another stakeholder category.
+
+They are sovereign governments whose conservation responsibilities may arise from:
+
+* inherent sovereignty;
+* treaties;
+* federal statutes;
+* federal trust responsibilities;
+* Tribal law;
+* cooperative agreements; and
+* co-management arrangements.
+
+Tribal governments administer programs involving:
+
+* fisheries;
+* wildlife;
+* forests;
+* water;
+* habitat;
+* cultural resources;
+* restoration; and
+* ecological monitoring.
+
+The federal government increasingly uses co-management and shared decision-making arrangements in areas where Tribal interests and federal resource responsibilities overlap.
+
+GAO's 2026 review identified legal authority, agency guidance, workforce capacity, and agency understanding as important factors affecting the implementation of federal-Tribal shared decision-making.
+
+Future American Conservation Renewal analysis should therefore treat Tribal governance as a **core institutional component**, not an auxiliary consideration.
+
+---
+
+# 6. Territorial Governments
+
+U.S. territories possess their own conservation institutions and manage natural resources within their respective jurisdictions.
+
+Territorial conservation issues can differ substantially from those facing the continental United States.
+
+Relevant issues include:
+
+* tropical ecosystems;
+* coral reefs;
+* coastal ecosystems;
+* invasive species;
+* endemic species;
+* fisheries;
+* protected areas; and
+* climate-related coastal impacts.
+
+Future project analysis should incorporate territories where national policy applies, while recognizing their distinct institutional circumstances.
+
+---
+
+# 7. Local and Regional Government
+
+Local governments influence conservation through authorities including:
+
+* zoning;
+* land-use planning;
+* development regulation;
+* stormwater management;
+* parks;
+* open-space preservation;
+* flood management;
+* wastewater;
+* watershed planning;
+* infrastructure; and
+* local environmental programs.
+
+Regional organizations can become particularly important where natural systems cross municipal boundaries.
+
+Examples include:
+
+* watershed councils;
+* regional planning organizations;
+* joint powers authorities;
+* conservation districts;
+* interstate commissions; and
+* metropolitan planning organizations.
+
+---
+
+# 8. Private Land
+
+Private land represents a critical but sometimes overlooked component of national conservation.
+
+Wildlife does not recognize property boundaries.
+
+Important habitat can occur on:
+
+* farms;
+* ranches;
+* timberlands;
+* private forests;
+* wetlands;
+* working landscapes;
+* suburban areas; and
+* privately conserved properties.
+
+Federal and state programs therefore use tools such as:
+
+* conservation easements;
+* technical assistance;
+* financial incentives;
+* habitat partnerships;
+* cost-sharing;
+* tax incentives;
+* voluntary agreements; and
+* regulatory mechanisms.
+
+The conservation system consequently depends partly upon cooperation with landowners who do not directly manage public resources.
+
+---
+
+# 9. Nongovernmental Organizations
+
+Nonprofit conservation organizations provide substantial:
+
+* land acquisition;
+* habitat restoration;
+* scientific research;
+* advocacy;
+* public education;
+* policy analysis;
+* litigation;
+* species recovery;
+* monitoring; and
+* funding.
+
+Organizations may operate at:
+
+* local;
+* state;
+* regional;
+* national; or
+* international scales.
+
+They can fill institutional gaps but may also have different priorities and accountability structures than public agencies.
+
+The project should therefore distinguish between **governmental capacity** and **total conservation capacity**.
+
+---
+
+# 10. Universities and Scientific Institutions
+
+Universities contribute:
+
+* basic research;
+* applied research;
+* field monitoring;
+* ecological modeling;
+* student training;
+* data analysis;
+* technological development; and
+* independent evaluation.
+
+Academic institutions are particularly important for maintaining long-term scientific capacity that may not be practical for individual agencies to maintain internally.
+
+---
+
+# 11. Funding Architecture
+
+American conservation is financed through multiple channels.
+
+A simplified structure is:
+
+```text
+Federal Appropriations
+        │
+        ├── Federal Agencies
+        │
+        ├── State Grants
+        │
+        └── Tribal Programs
+
+Dedicated Federal Revenues
+        │
+        ├── Wildlife Restoration
+        ├── Sport Fish Restoration
+        └── Other Dedicated Programs
+
+State Revenues
+        │
+        ├── General Funds
+        ├── Licenses & Fees
+        └── State Bonds / Dedicated Revenues
+
+Private & Nongovernmental
+        │
+        ├── Foundations
+        ├── Donations
+        ├── Land Trusts
+        └── Partnerships
+```
+
+This diversified structure creates resilience.
+
+It also makes it difficult to determine:
+
+> **How much does America spend on conservation as a whole?**
+
+A later project deliverable should therefore attempt to construct a **National Conservation Funding Inventory**.
+
+---
+
+# 12. Ecological Systems Versus Political Jurisdictions
+
+One of the fundamental structural characteristics of conservation governance is the mismatch between ecological and political boundaries.
+
+Consider a migratory species:
+
+```text
+Breeding habitat
+      ↓
+State land
+      ↓
+Federal land
+      ↓
+Private land
+      ↓
+Another state
+      ↓
+International boundary
+      ↓
+Wintering habitat
+```
+
+Or a watershed:
+
+```text
+Headwaters
+    ↓
+County
+    ↓
+State
+    ↓
+Second State
+    ↓
+Estuary
+    ↓
+Federal waters
+```
+
+The ecological system is continuous.
+
+Governance is not.
+
+This creates a recurring requirement for coordination.
+
+---
+
+# 13. Major Institutional Interfaces
+
+The most important conservation challenges frequently occur at institutional boundaries.
+
+### Federal ↔ State
+
+Examples:
+
+* endangered species;
+* fisheries;
+* wildlife grants;
+* water quality;
+* public lands;
+* migratory species.
+
+### Federal ↔ Tribal
+
+Examples:
+
+* treaty resources;
+* fisheries;
+* wildlife;
+* public lands;
+* cultural resources;
+* co-management.
+
+### State ↔ Local
+
+Examples:
+
+* land-use planning;
+* water;
+* development;
+* habitat;
+* parks.
+
+### Public ↔ Private
+
+Examples:
+
+* habitat corridors;
+* agricultural conservation;
+* conservation easements;
+* watershed protection.
+
+### Government ↔ Science
+
+Examples:
+
+* monitoring;
+* species assessments;
+* stock assessments;
+* ecological modeling;
+* climate projections.
+
+These interfaces should become a central focus of later project analysis.
+
+---
+
+# 14. Institutional Gaps to Investigate
+
+The Systems Map identifies several potential gaps requiring further research.
+
+## Gap 1 — Cross-jurisdictional coordination
+
+Who is responsible when a conservation problem crosses multiple jurisdictions?
+
+---
+
+## Gap 2 — National ecological priorities
+
+Who determines which ecological outcomes constitute national priorities?
+
+---
+
+## Gap 3 — Data interoperability
+
+Can information collected by different agencies and governments be integrated effectively?
+
+---
+
+## Gap 4 — Performance measurement
+
+Are conservation programs evaluated using comparable outcome measures?
+
+---
+
+## Gap 5 — Long-term planning
+
+Which institutions possess authority and resources to plan beyond normal political cycles?
+
+---
+
+## Gap 6 — Institutional capacity
+
+Where are staffing and technical-capacity shortages greatest?
+
+---
+
+## Gap 7 — Funding alignment
+
+Does funding follow ecological priorities, or primarily follow individual programs and jurisdictions?
+
+---
+
+## Gap 8 — Private-land conservation
+
+Are existing incentives sufficient to conserve nationally important habitat on private lands?
+
+---
+
+# 15. Structural Strengths
+
+The system's fragmentation should not be treated exclusively as a weakness.
+
+The existing architecture provides several important strengths.
+
+### Institutional specialization
+
+Different agencies develop expertise in different resources.
+
+### Geographic specialization
+
+States and local governments can tailor programs to regional conditions.
+
+### Redundancy
+
+Multiple institutions may provide overlapping conservation capacity.
+
+### Experimentation
+
+States can develop different approaches and provide opportunities for comparative learning.
+
+### Partnership capacity
+
+Federal programs can leverage state, Tribal, private, nonprofit, and academic resources.
+
+### Distributed authority
+
+Conservation cannot necessarily be eliminated or redirected by a single institutional decision.
+
+These characteristics should be preserved where they demonstrably contribute to effective conservation.
+
+---
+
+# 16. Structural Vulnerabilities
+
+The same architecture creates vulnerabilities.
+
+### Fragmentation
+
+Responsibilities may be divided among institutions without a clear coordinating mechanism.
+
+### Uneven capacity
+
+Some jurisdictions possess substantially greater resources than others.
+
+### Short-term incentives
+
+Annual budgets and political cycles can conflict with long ecological time horizons.
+
+### Information fragmentation
+
+Important datasets may remain separated by institutional boundaries.
+
+### Administrative complexity
+
+Programs can impose significant coordination and reporting requirements.
+
+### Accountability gaps
+
+When multiple organizations contribute to an outcome, responsibility for success or failure may become difficult to assign.
+
+### Jurisdictional conflict
+
+Different governments may possess legitimate but competing objectives.
+
+---
+
+# 17. Working Institutional Model
+
+The project will use the following model for subsequent analysis:
+
+> **Resources → Institutions → Authorities → Funding → Actions → Outcomes**
+
+Each conservation problem should be examined across all six dimensions.
+
+For example:
+
+**Resource:** salmon population
+
+**Institutions:** federal agencies + states + Tribes + local governments
+
+**Authorities:** fisheries statutes + treaty rights + state law
+
+**Funding:** federal + state + Tribal + private
+
+**Actions:** habitat restoration + harvest management + hatcheries + monitoring
+
+**Outcomes:** abundance + survival + habitat condition + population recovery
+
+This model will help prevent the project from evaluating individual programs without considering the larger system in which they operate.
+
+---
+
+# 18. Initial Systems-Level Findings
+
+The Conservation Systems Map produces seven preliminary findings.
+
+### Finding 1
+
+**American conservation is fundamentally multi-governmental.**
+
+No single level of government possesses complete authority over the country's natural resources.
+
+### Finding 2
+
+**Ecological systems frequently cross political boundaries.**
+
+Effective conservation therefore requires mechanisms for coordination.
+
+### Finding 3
+
+**Federal agencies remain essential but are not sufficient.**
+
+State, Tribal, local, private, nonprofit, and academic institutions are integral components of national conservation capacity.
+
+### Finding 4
+
+**Funding architecture is fragmented.**
+
+Understanding total conservation investment will require analysis across multiple programs and governments.
+
+### Finding 5
+
+**Scientific capacity is distributed.**
+
+No single institution possesses all of the information necessary for national conservation management.
+
+### Finding 6
+
+**Performance accountability becomes more difficult as institutional complexity increases.**
+
+The more organizations involved in producing an outcome, the more important clear objectives and outcome measures become.
+
+### Finding 7
+
+**The most consequential opportunities for reform may occur at institutional interfaces.**
+
+Improving coordination among existing institutions may sometimes produce greater conservation gains than creating entirely new institutions.
+
+---
+
+# 19. Implications for American Conservation Renewal
+
+The Systems Map changes the project's central question slightly.
+
+The question is no longer simply:
+
+> **What conservation policies should America adopt?**
+
+It becomes:
+
+> **How should America's existing conservation institutions work together to produce better ecological outcomes?**
+
+This distinction will guide the next phase.
+
+The project should not assume that every problem requires:
+
+* a new federal agency;
+* a new law;
+* additional regulation;
+* additional funding; or
+* greater federal authority.
+
+Possible solutions may instead involve:
+
+* better coordination;
+* improved data sharing;
+* targeted funding;
+* revised incentives;
+* institutional partnerships;
+* clearer responsibilities;
+* improved performance measurement;
+* workforce development;
+* adaptive management; or
+* selective statutory reform.
+
+---
+
+# 20. Next Deliverable
+
+The next phase should be:
+
+# Deliverable 4 — Policy Pillar Assessments
+
+The project should now move from institutional architecture into substantive conservation systems.
+
+The initial policy pillars should be:
+
+1. **Wildlife & Biodiversity**
+2. **Public Lands**
+3. **Forests & Wildfire**
+4. **Fisheries & Aquatic Resources**
+5. **Water & Watersheds**
+6. **Ecological Restoration**
+7. **Conservation Science & Data**
+8. **Institutional Capacity & Workforce**
+9. **Conservation Funding**
+10. **Performance & Accountability**
+
+Each pillar should use a standardized analytical framework:
+
+**Current condition → Existing institutions → Existing policies → Evidence of effectiveness → Major gaps → Policy options → Implementation requirements → Performance measures.**
+
+---
+
+# 21. Status
+
+**American Conservation Renewal v0.3.0 — Conservation Systems Map**
+
+This document establishes the project's initial institutional model.
+
+It should be treated as a working framework rather than a comprehensive inventory. Subsequent research should add agency-level authorities, statutory references, funding mechanisms, state and Tribal examples, and documented institutional relationships.
+
+The ultimate purpose of the map is not to create an organizational chart.
+
+It is to make visible the institutional relationships through which conservation outcomes are—or are not—produced.
+
+> **America's conservation challenge is therefore partly an ecological problem, but it is also a problem of governance across boundaries.**
