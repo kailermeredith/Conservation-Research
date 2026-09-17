@@ -1,0 +1,752 @@
+# Conservation Renewal Agenda
+
+## ESA Species Outcomes — Quantitative Baseline
+
+**Version:** 0.4.3
+**Status:** Quantitative Baseline
+**Pillar:** Wildlife & Biodiversity
+**Primary source:** U.S. Fish & Wildlife Service, *Report to Congress on the Recovery of Threatened and Endangered Species, Fiscal Years 2021–2022*
+
+---
+
+## 1. Purpose
+
+This document establishes the first quantitative baseline for evaluating outcomes under the federal Endangered Species Act (ESA).
+
+The objective is not to calculate a simplistic "success rate."
+
+Instead, the analysis asks:
+
+> **What does the historical record tell us about the condition, recovery progress, and administrative status of federally listed species?**
+
+The distinction matters because:
+
+* a species can improve without being delisted;
+* a species can remain listed despite substantial progress;
+* a species can be delisted for reasons other than recovery;
+* and a species can remain listed for decades while conditions change substantially.
+
+The analysis must therefore preserve these distinctions.
+
+---
+
+# 2. Population of the Dataset
+
+At the end of FY2022, the U.S. Fish & Wildlife Service had lead responsibility for recovering:
+
+**1,589 federally listed domestic species**
+
+including:
+
+* **1,236 endangered species**
+* **353 threatened species**
+
+These figures include plants as well as animals and encompass subspecies and distinct population segments included within the ESA listing framework.
+
+### Basic composition
+
+| Status     |    Number |    Share |
+| ---------- | --------: | -------: |
+| Endangered |     1,236 |    77.8% |
+| Threatened |       353 |    22.2% |
+| **Total**  | **1,589** | **100%** |
+
+The high proportion of endangered species illustrates an important characteristic of the federal system:
+
+> Much of the ESA caseload consists of species already considered to face a substantial risk of extinction.
+
+This reinforces the importance of examining preventive conservation separately from ESA recovery.
+
+---
+
+# 3. Recovery Plan Coverage
+
+As of September 30, 2022:
+
+* **1,248 species (79%)** had recovery plans.
+* **42 species** had draft plans that had not yet been finalized.
+* **338 species** still needed recovery plans.
+* Of those 338 species, **217 had recovery outlines** completed.
+
+### Quantitative snapshot
+
+| Measure                                       | Number | Share |
+| --------------------------------------------- | -----: | ----: |
+| Listed species                                |  1,589 |  100% |
+| Species with recovery plans                   |  1,248 | 78.5% |
+| Species without approved recovery plans       |    338 | 21.3% |
+| Draft-plan species included within plan total |     42 |  2.6% |
+
+Minor differences between percentages and reported figures result from rounding.
+
+---
+
+# 4. Why Recovery-Plan Coverage Matters
+
+A recovery plan is not itself evidence of recovery.
+
+However, FWS describes recovery plans as providing:
+
+* recovery strategy;
+* guidance;
+* benchmarks;
+* recovery indicators;
+* and a framework for evaluating species status.
+
+Therefore, recovery-plan coverage is best understood as an **institutional-capacity indicator**, not an ecological outcome.
+
+The project should keep these categories separate:
+
+### Institutional output
+
+A recovery plan exists.
+
+### Implementation output
+
+Recovery actions have been undertaken.
+
+### Ecological outcome
+
+The species' condition improves.
+
+### Ultimate outcome
+
+The species achieves sufficient recovery that ESA protection is no longer necessary.
+
+---
+
+# 5. Status-Review Coverage
+
+The FWS report states that, as of September 30, 2022:
+
+**95% of domestic species listed for five or more years had completed status reviews.**
+
+That represented:
+
+**1,484 species.**
+
+Of these:
+
+* 1,389 received recommendations for no change;
+* 38 were recommended for reclassification from endangered to threatened;
+* 42 were recommended for delisting;
+* 14 were recommended for reclassification from threatened to endangered;
+* 1 received a recommendation to revise the listed entity.
+
+### Status-review recommendations
+
+| Recommendation       |    Number | Approx. share |
+| -------------------- | --------: | ------------: |
+| No change            |     1,389 |         93.6% |
+| Downlist E → T       |        38 |          2.6% |
+| Delist               |        42 |          2.8% |
+| Uplist T → E         |        14 |          0.9% |
+| Revise listed entity |         1 |         <0.1% |
+| **Total**            | **1,484** |      **100%** |
+
+---
+
+# 6. The "No Change" Category Requires Care
+
+The 1,389 "no change" recommendations should **not** be interpreted as 1,389 conservation failures.
+
+FWS explicitly cautions that a species may have made substantial progress toward recovery while still not meeting the threshold for reclassification or delisting.
+
+This is analytically important.
+
+A species can occupy several states:
+
+**Declining**
+
+→ **Stable**
+
+→ **Improving**
+
+→ **Approaching recovery**
+
+→ **Recovered**
+
+while remaining legally listed during most or all of that process.
+
+Therefore, legal status is an imperfect proxy for biological trajectory.
+
+---
+
+# 7. The Delisting Breakdown
+
+The 42 delisting recommendations from the completed status reviews break down as follows:
+
+| Reason              | Number | Share of delisting recommendations |
+| ------------------- | -----: | ---------------------------------: |
+| Extinction          |     24 |                              57.1% |
+| Recovery            |     16 |                              38.1% |
+| Original data error |      2 |                               4.8% |
+| **Total**           | **42** |                           **100%** |
+
+This is one of the most important findings in the baseline.
+
+A simple count of delistings would obscure the difference between:
+
+**"the species recovered"**
+
+and
+
+**"the species is no longer present."**
+
+For the purposes of American Conservation Renewal, these outcomes must never be combined.
+
+---
+
+# 8. Recovery Delisting Is a Small but Meaningful Outcome
+
+Of the 1,484 species with completed status reviews, 16 had status-review recommendations for delisting because of recovery during the FY2021–2022 reporting period.
+
+That represents approximately:
+
+**1.1% of reviewed species.**
+
+This number should **not** be described as an ESA recovery rate.
+
+Why?
+
+Because:
+
+1. species enter the ESA at different stages of decline;
+2. recovery can take decades;
+3. the dataset covers a specific two-year reporting period;
+4. delisting requires a separate rulemaking process;
+5. status-review recommendations are not equivalent to final legal outcomes;
+6. species vary enormously in biology and recovery difficulty.
+
+The correct interpretation is narrower:
+
+> During this reporting period, recovery-based delisting was recommended for a relatively small subset of the listed species undergoing status review.
+
+---
+
+# 9. Actual Recovery During FY2021–2022
+
+The FWS report records **seven species actually delisted because of recovery** during the two-year reporting period.
+
+They were:
+
+* San Benito evening-primrose;
+* Cumberland sandwort;
+* running buffalo clover;
+* water howellia;
+* *Lepanthes eltoroensis*;
+* Bradshaw's lomatium;
+* interior least tern.
+
+Seven additional species were reclassified from endangered to threatened:
+
+* June sucker;
+* Stephens' kangaroo rat;
+* Morro shoulderband snail;
+* smooth coneflower;
+* humpback chub;
+* American burying beetle;
+* beach layia.
+
+This provides an important distinction:
+
+### Delisting
+
+Protection no longer necessary under the ESA.
+
+### Downlisting
+
+Species has improved substantially but remains threatened.
+
+The second outcome should not be treated as failure.
+
+It can represent a major conservation improvement.
+
+---
+
+# 10. Time Is a Central Variable
+
+FWS explicitly notes that species declines frequently occur over decades or centuries before listing and that recovery can consequently require substantial time and resources.
+
+This creates a major methodological requirement for American Conservation Renewal.
+
+We should not evaluate wildlife programs solely through:
+
+**annual performance**
+
+or even:
+
+**four-year performance.**
+
+The project should eventually measure outcomes across multiple timescales.
+
+### Short-term
+
+1–4 years
+
+* threats reduced;
+* habitat improved;
+* monitoring established;
+* management actions implemented.
+
+### Medium-term
+
+5–15 years
+
+* populations stabilize;
+* reproduction improves;
+* range expands;
+* fragmentation decreases.
+
+### Long-term
+
+15–50+ years
+
+* recovery criteria achieved;
+* species downlisted;
+* species delisted;
+* recovered populations remain viable.
+
+---
+
+# 11. Recovery Actions
+
+The FWS dataset includes a field for the number of recovery actions implemented for each species.
+
+FWS defines implemented actions broadly, including actions categorized as:
+
+* ongoing and current;
+* ongoing but not current;
+* partially complete;
+* complete.
+
+The actions correspond to measures intended to eliminate or reduce identified threats.
+
+This provides an unusually useful bridge between:
+
+**policy implementation**
+
+and
+
+**ecological outcomes.**
+
+However, the number of actions implemented should not itself be interpreted as evidence of success.
+
+One highly effective intervention could theoretically matter more than dozens of low-impact actions.
+
+Therefore, the future dataset should preserve the action count while avoiding any assumption that:
+
+**more actions = better recovery.**
+
+---
+
+# 12. Proposed Species-Level Dataset
+
+The project should build a master CSV with the following fields.
+
+| Field                        | Purpose                         |
+| ---------------------------- | ------------------------------- |
+| Species                      | Common name                     |
+| Scientific_Name              | Scientific name                 |
+| Taxonomic_Group              | Mammal, bird, fish, plant, etc. |
+| Listing_Date                 | Date listed                     |
+| Listing_Status               | Endangered/threatened           |
+| Years_Listed                 | Duration                        |
+| Recovery_Plan_Date           | Active plan                     |
+| Recovery_Plan_Status         | Final/draft/outline/etc.        |
+| Recovery_Actions_Implemented | Implementation indicator        |
+| Last_Status_Review           | Most recent review              |
+| Status_Recommendation        | Review outcome                  |
+| Final_Legal_Outcome          | Actual legal status             |
+| Delisting_Reason             | Recovery/extinction/error       |
+| Downlisting_Date             | If applicable                   |
+| Delisting_Date               | If applicable                   |
+| Primary_Threats              | Major identified threats        |
+| Habitat_Type                 | Major habitat                   |
+| Geographic_Range             | Range                           |
+| Federal_Lead                 | Responsible agency              |
+| State_Partners               | Relevant states                 |
+| Tribal_Partners              | Where applicable                |
+| Private_Land_Component       | Yes/no/unknown                  |
+| Recovery_Case                | Yes/no                          |
+| Evidence_Quality             | Assessment                      |
+| Notes                        | Research notes                  |
+
+---
+
+# 13. Additional Variables We Should Add
+
+The project should go beyond the FWS report where feasible.
+
+### Biological trajectory
+
+Where data permit:
+
+* population trend;
+* abundance;
+* occupied range;
+* reproductive success;
+* habitat condition.
+
+### Recovery difficulty
+
+Potential variables:
+
+* initial population condition;
+* habitat fragmentation;
+* number of threats;
+* geographic range;
+* generation time;
+* dependence on habitat restoration;
+* dependence on captive propagation;
+* dependence on invasive-species control.
+
+### Institutional complexity
+
+Potential variables:
+
+* number of states;
+* federal agencies;
+* Tribal governments;
+* private-land component;
+* major conservation partnerships.
+
+These variables could allow us to ask whether certain institutional arrangements are associated with better outcomes.
+
+---
+
+# 14. The Most Important Analytical Question
+
+The dataset should eventually allow us to examine:
+
+> **What distinguishes species that improve from species that remain stagnant or deteriorate?**
+
+Potential explanatory variables include:
+
+**Biology**
+
+* generation time;
+* reproductive rate;
+* population size;
+* habitat requirements.
+
+**Threats**
+
+* habitat loss;
+* invasive species;
+* disease;
+* overharvest;
+* altered hydrology;
+* predation;
+* climate-related pressures.
+
+**Management**
+
+* recovery-plan quality;
+* action implementation;
+* habitat acquisition;
+* restoration;
+* captive breeding;
+* reintroduction;
+* harvest restrictions.
+
+**Institutions**
+
+* number of jurisdictions;
+* federal-state coordination;
+* Tribal participation;
+* private-land dependence.
+
+**Resources**
+
+* funding;
+* staffing;
+* monitoring.
+
+This is where the project can move beyond descriptive policy analysis.
+
+---
+
+# 15. Successful Recovery Is Not a Single Model
+
+Recent cases illustrate several different recovery pathways.
+
+### Habitat conservation
+
+San Benito evening-primrose increased from nine known occurrences when listed in 1985 to 79 by the time recovery was determined. FWS attributes the improvement to research and habitat conservation involving BLM and partners.
+
+### Multi-jurisdictional aquatic recovery
+
+The razorback sucker was downlisted in 2026 after more than three decades of cooperative work involving federal, state, Tribal, regional, private, and nonprofit organizations. Its largest population reportedly increased from roughly 100 wild fish in the late 1990s to approximately 36,000 adults.
+
+### Habitat and population management
+
+The recent aeʻo downlisting involved the State of Hawaiʻi, military installations, private landowners, and local organizations, illustrating the importance of conservation beyond federal land.
+
+### Large population increase
+
+Rough popcornflower increased from roughly 7,000 plants in eight populations at listing to more than two million plants across 18 populations before its 2026 downlisting.
+
+These cases should eventually become comparative case studies rather than merely examples in narrative prose.
+
+---
+
+# 16. What the Dataset Can Eventually Tell Us
+
+Once populated, the dataset could answer questions such as:
+
+### Question 1
+
+What percentage of listed species have remained in the same legal category for:
+
+* 5 years;
+* 10 years;
+* 20 years;
+* 30 years;
+* 50 years?
+
+### Question 2
+
+What proportion of species have been:
+
+* downlisted;
+* delisted because of recovery;
+* delisted because of extinction;
+* uplisted?
+
+### Question 3
+
+Does longer time under the ESA correlate with particular threat types?
+
+### Question 4
+
+Are species with measurable population increases more likely to be downlisted?
+
+### Question 5
+
+Do species with stronger multi-jurisdictional partnerships show different outcomes?
+
+### Question 6
+
+How frequently do species have recovery plans but limited implementation?
+
+### Question 7
+
+How frequently do substantial recovery actions occur without corresponding changes in legal status?
+
+### Question 8
+
+Are particular intervention types repeatedly associated with successful recovery?
+
+These are substantially more useful questions than asking whether the ESA has "worked."
+
+---
+
+# 17. A Necessary Warning About Causality
+
+Even a completed dataset will not automatically demonstrate that a particular federal program caused recovery.
+
+Species recovery can result from:
+
+* regulatory protection;
+* habitat restoration;
+* private conservation;
+* state management;
+* Tribal management;
+* changes in land use;
+* natural population fluctuations;
+* disease changes;
+* invasive-species control;
+* weather;
+* ecological succession;
+* or combinations of these.
+
+Therefore, the project should distinguish:
+
+**Correlation**
+
+from
+
+**documented contribution**
+
+from
+
+**demonstrated causation.**
+
+Case studies should explicitly identify which level of inference is supported.
+
+---
+
+# 18. A More Useful Definition of ESA Performance
+
+The project should avoid defining ESA performance as:
+
+> **Number of species delisted.**
+
+A better conceptual model is:
+
+### Level 1 — Prevention
+
+Species does not become federally listed.
+
+### Level 2 — Stabilization
+
+Population decline is halted.
+
+### Level 3 — Improvement
+
+Population or habitat condition improves.
+
+### Level 4 — Downlisting
+
+Species moves from endangered to threatened.
+
+### Level 5 — Recovery
+
+Species meets scientifically established recovery criteria.
+
+### Level 6 — Delisting
+
+Federal protection is no longer necessary.
+
+### Level 7 — Persistence
+
+Recovered populations remain viable after federal protection ends.
+
+This framework is much closer to what a functioning conservation system should actually accomplish.
+
+---
+
+# 19. Initial Quantitative Findings
+
+The available federal data support several findings with relatively high confidence.
+
+### Finding 1
+
+The federal wildlife system was managing a very large and diverse listed-species portfolio: **1,589 domestic species at the end of FY2022.**
+
+### Finding 2
+
+Recovery-plan coverage was substantial but incomplete: **79% had recovery plans**, leaving hundreds without an approved plan.
+
+### Finding 3
+
+Status-review coverage was high: **95% of species listed for five or more years had completed status reviews.**
+
+### Finding 4
+
+Most status reviews resulted in no recommendation to change legal classification, but FWS explicitly cautions that "no change" does not mean "no progress."
+
+### Finding 5
+
+Recovery-based delisting represented only a minority of delisting recommendations during the period examined; extinction was the larger category among those recommendations.
+
+### Finding 6
+
+Documented recovery can involve very long timeframes and complex partnerships.
+
+### Finding 7
+
+Recent recovery and downlisting cases demonstrate that substantial ecological improvement remains possible under the existing institutional architecture.
+
+---
+
+# 20. The Emerging Policy Diagnosis
+
+The evidence does **not** support the simplistic conclusion that the federal wildlife system either works or does not work.
+
+Instead, it suggests a more complicated picture:
+
+> **The United States has demonstrated institutional capacity to recover species, but recovery is comparatively uncommon relative to the size and longevity of the listed-species portfolio, and substantial numbers of species remain in prolonged conservation management.**
+
+That observation raises the more useful policy question:
+
+> **What characteristics distinguish conservation programs that successfully move species from imperilment toward recovery from those that do not?**
+
+That should become one of the central empirical questions of American Conservation Renewal.
+
+---
+
+# 21. Next Analytical Stage
+
+The next phase should be **dataset construction**, not additional narrative.
+
+The 2021–2022 FWS report provides a structured starting point covering the entire domestic species portfolio under FWS responsibility. The report explicitly states that each species entry includes listing date, classification, recovery-plan information, recovery actions implemented, most recent status review, and recommendation.
+
+FWS's ECOSphere system also provides species-level reports and searchable categories for:
+
+* listed species;
+* recovery plans;
+* five-year reviews;
+* reclassified species;
+* delisted species;
+* Species Status Assessments;
+* current ranges.
+
+The project should combine these sources into a master species dataset.
+
+The resulting workflow will be:
+
+**FWS master species list**
+
+↓
+
+**Recovery-plan data**
+
+↓
+
+**Status-review history**
+
+↓
+
+**Legal-status changes**
+
+↓
+
+**Biological outcome data**
+
+↓
+
+**Threat/intervention coding**
+
+↓
+
+**Institutional-partnership coding**
+
+↓
+
+**Outcome analysis**
+
+Only after that analysis should we make claims about where the ESA or broader wildlife-conservation system needs reform.
+
+---
+
+# 22. Interim Conclusion
+
+The quantitative evidence changes the framing of Pillar 1.
+
+The question is not:
+
+> **"Does the Endangered Species Act work?"**
+
+Nor is it:
+
+> **"Should the federal government protect more species?"**
+
+The more useful question is:
+
+> **"How can the American conservation system become better at moving species from early warning to stabilization, recovery, and durable long-term viability?"**
+
+That question incorporates the entire conservation continuum:
+
+**Prevent → Detect → Stabilize → Recover → Verify → Maintain**
+
+It also leaves room for an important possibility:
+
+Some species may require stronger federal intervention.
+
+Others may be better served by state, Tribal, local, private, or partnership-based conservation.
+
+And some existing programs may simply need to perform better.
+
+The evidence—not the institutional identity of the program—should determine which conclusion applies.
