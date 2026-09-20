@@ -1,0 +1,670 @@
+# Conservation Renewal Agenda
+
+## v0.5.1 — Fisheries & Aquatic Resources: Case-Study Evidence Matrix
+
+### 1. Purpose
+
+This matrix converts the fisheries case-study framework into a structured evidence inventory.
+
+The objective is not to rank fisheries or identify a single “best” management approach. Instead, the matrix asks which institutional and ecological factors are repeatedly associated with documented improvement, where evidence remains incomplete, and where conservation outcomes depend on institutions outside conventional fisheries management.
+
+The cases are deliberately heterogeneous.
+
+They include:
+
+* a formally rebuilt marine stock;
+* a rebuilding stock crossing jurisdictions;
+* an internationally managed stock;
+* large-scale river restoration;
+* fish-passage restoration;
+* watershed-scale restoration.
+
+This allows the analysis to distinguish **management of a fishery** from **conservation of an aquatic ecosystem**.
+
+---
+
+# 2. Evidence Coding System
+
+Each factor receives one of five classifications:
+
+**Documented** — direct evidence identifies the factor as part of the management or recovery process.
+
+**Partially documented** — evidence exists, but the factor's contribution is incomplete or context-dependent.
+
+**Insufficient evidence** — the available material does not support a defensible determination.
+
+**Contradictory** — credible evidence points in different directions.
+
+**Not applicable** — the factor is not relevant to the case.
+
+The coding is intentionally qualitative at this stage.
+
+No numerical performance score should be assigned.
+
+---
+
+# 3. Case A — Atlantic Sea Scallop
+
+### Starting condition
+
+Atlantic sea scallops experienced severe depletion following decades of intensive fishing.
+
+NOAA's regulatory history records the stock as formally declared overfished in 1997. Management subsequently imposed stronger effort restrictions, gear requirements, vessel limits, and extensive area closures. A rebuilding plan sought to rebuild the stock within ten years.
+
+### Intervention
+
+The response combined:
+
+* fishing-effort restrictions;
+* closed areas;
+* gear requirements;
+* limits on participation;
+* vessel monitoring;
+* improved biological information;
+* later rotational area management.
+
+NOAA reports that biomass in Georges Bank closed areas increased more than nine-fold by 1998, and the stock was formally declared rebuilt in 2001.
+
+### Evidence matrix
+
+| Factor                       | Evidence                                        |
+| ---------------------------- | ----------------------------------------------- |
+| Early intervention           | **Documented**                                  |
+| Strong baseline data         | **Partially documented**                        |
+| Explicit biological targets  | **Documented**                                  |
+| Harvest reduction            | **Documented**                                  |
+| Habitat protection           | **Partially documented**                        |
+| Habitat restoration          | **Not applicable**                              |
+| Monitoring                   | **Documented**                                  |
+| Long-term funding            | **Partially documented**                        |
+| Federal-state coordination   | **Partially documented**                        |
+| Tribal participation         | **Insufficient evidence**                       |
+| International coordination   | **Not applicable**                              |
+| Private-sector participation | **Documented**                                  |
+| Adaptive management          | **Documented**                                  |
+| Enforcement/compliance       | **Partially documented**                        |
+| Institutional continuity     | **Documented**                                  |
+| Biological improvement       | **Documented**                                  |
+| Durable improvement          | **Documented, subject to continued management** |
+
+### Institutional lesson
+
+The scallop case is important because multiple management tools operated simultaneously.
+
+The evidence does not support reducing the recovery to a single intervention. Area closures, fishing-effort restrictions, gear requirements, biological monitoring, and subsequent rotational management formed an integrated management system.
+
+The case therefore supports an early project hypothesis:
+
+> Conservation outcomes frequently result from combinations of mutually reinforcing interventions rather than isolated policy instruments.
+
+---
+
+# 4. Case B — Pacific Bluefin Tuna
+
+### Starting condition
+
+Pacific bluefin tuna reached historically low population levels after prolonged overfishing.
+
+NOAA determined the stock to be overfished in 2013. Because the species moves across international waters, recovery could not be achieved through U.S. domestic management alone.
+
+### Intervention
+
+Recovery involved:
+
+* international catch reductions;
+* scientific assessment;
+* coordination through international fisheries organizations;
+* restrictions affecting juvenile and larger bluefin;
+* continued stock assessment.
+
+NOAA reports that the stock was rebuilt in 2024, approximately a decade ahead of the international target.
+
+### Evidence matrix
+
+| Factor                       | Evidence                                     |
+| ---------------------------- | -------------------------------------------- |
+| Early intervention           | **Partially documented**                     |
+| Strong baseline data         | **Documented**                               |
+| Explicit biological targets  | **Documented**                               |
+| Harvest reduction            | **Documented**                               |
+| Habitat protection           | **Not applicable as principal intervention** |
+| Habitat restoration          | **Not applicable**                           |
+| Monitoring                   | **Documented**                               |
+| Long-term funding            | **Partially documented**                     |
+| Federal-state coordination   | **Partially documented**                     |
+| Tribal participation         | **Insufficient evidence**                    |
+| International coordination   | **Documented**                               |
+| Private-sector participation | **Documented**                               |
+| Adaptive management          | **Documented**                               |
+| Enforcement/compliance       | **Partially documented**                     |
+| Institutional continuity     | **Documented**                               |
+| Biological improvement       | **Documented**                               |
+| Durable improvement          | **Requires continued monitoring**            |
+
+### Institutional lesson
+
+Pacific bluefin demonstrates the importance of **governance matching ecological scale**.
+
+The population's geographic range extends beyond U.S. jurisdiction. Consequently, domestic authority could influence only part of total fishing mortality.
+
+The recovery illustrates a broader principle:
+
+> When an ecological system crosses political boundaries, conservation performance depends partly on the ability of institutions to coordinate beyond their individual jurisdictions.
+
+---
+
+# 5. Case C — Elwha River
+
+### Starting condition
+
+The Elwha River had been heavily altered by two dams that prevented anadromous fish from accessing substantial portions of the watershed.
+
+The dams were removed in phases between 2011 and 2014.
+
+The restoration program was accompanied by an extensive monitoring and adaptive-management framework involving the Lower Elwha Klallam Tribe, federal agencies, Washington Department of Fish and Wildlife, Olympic National Park, and scientific institutions.
+
+### Intervention
+
+The intervention included:
+
+* dam removal;
+* habitat reconnection;
+* hatchery management;
+* harvest restrictions;
+* long-term biological monitoring;
+* sediment and habitat monitoring;
+* adaptive management.
+
+NOAA reports increased adult fish numbers, expanded habitat use, and increased naturally produced juvenile salmon following dam removal. At the same time, NOAA emphasizes that full recovery toward historical abundance is expected to take decades.
+
+### Evidence matrix
+
+| Factor                       | Evidence                                      |
+| ---------------------------- | --------------------------------------------- |
+| Early intervention           | **Partially documented**                      |
+| Strong baseline data         | **Documented**                                |
+| Explicit biological targets  | **Documented**                                |
+| Harvest reduction            | **Documented**                                |
+| Habitat protection           | **Documented**                                |
+| Habitat restoration          | **Documented**                                |
+| Monitoring                   | **Documented**                                |
+| Long-term funding            | **Partially documented / continuing concern** |
+| Federal-state coordination   | **Documented**                                |
+| Tribal participation         | **Documented**                                |
+| International coordination   | **Not applicable**                            |
+| Private-sector participation | **Partially documented**                      |
+| Adaptive management          | **Documented**                                |
+| Enforcement/compliance       | **Partially documented**                      |
+| Institutional continuity     | **Documented**                                |
+| Biological improvement       | **Documented**                                |
+| Durable improvement          | **Not yet established**                       |
+
+### Institutional lesson
+
+Elwha is particularly important because it demonstrates that **positive biological response and complete recovery are different outcomes**.
+
+The restoration has produced measurable improvements, but NOAA explicitly describes full recovery as a decades-long process. Monitoring has also changed in response to shortcomings in initial performance indicators.
+
+This makes Elwha one of the strongest cases for the project's concept of **adaptive performance measurement**.
+
+A program should be allowed to change its indicators when experience demonstrates that the original measures do not adequately capture ecological response.
+
+---
+
+# 6. Case D — Cedar River / Landsburg Dam
+
+### Starting condition
+
+The Landsburg Dam historically restricted anadromous fish access to portions of the Cedar River.
+
+A fish-passage facility was completed in 2003.
+
+NOAA subsequently conducted long-term monitoring of salmon populations using the newly accessible habitat.
+
+### Intervention
+
+The principal intervention was:
+
+**Barrier removal → habitat reconnection → long-term monitoring**
+
+The case differs from Elwha because the intervention was more targeted rather than a watershed-scale dam-removal project.
+
+### Evidence matrix
+
+| Factor                       | Evidence                          |
+| ---------------------------- | --------------------------------- |
+| Early intervention           | **Partially documented**          |
+| Strong baseline data         | **Documented**                    |
+| Explicit biological targets  | **Partially documented**          |
+| Harvest reduction            | **Partially documented**          |
+| Habitat protection           | **Documented**                    |
+| Habitat restoration          | **Documented**                    |
+| Monitoring                   | **Documented**                    |
+| Long-term funding            | **Partially documented**          |
+| Federal-state coordination   | **Documented**                    |
+| Tribal participation         | **Partially documented**          |
+| International coordination   | **Not applicable**                |
+| Private-sector participation | **Partially documented**          |
+| Adaptive management          | **Documented**                    |
+| Enforcement/compliance       | **Not central**                   |
+| Institutional continuity     | **Documented**                    |
+| Biological improvement       | **Documented**                    |
+| Durable improvement          | **Requires continued monitoring** |
+
+### Institutional lesson
+
+The Cedar River case is useful because it demonstrates the value of **longitudinal ecological measurement**.
+
+The relevant conservation question was not simply whether fish passed the barrier.
+
+It was whether fish populations subsequently established sustained use of the newly accessible habitat.
+
+That distinction mirrors the project's broader performance framework:
+
+**Infrastructure completed ≠ ecological outcome achieved.**
+
+---
+
+# 7. Case E — Alameda Creek
+
+### Starting condition
+
+Alameda Creek contained barriers that restricted access by migratory fish, including threatened Central California Coast steelhead.
+
+In 2025, NOAA reported completion of a project removing the final barrier to fish passage on a portion of the system. The project restored access to upstream spawning and juvenile-rearing habitat.
+
+### Intervention
+
+The principal intervention was targeted barrier removal.
+
+Its importance lies in ecological connectivity.
+
+A relatively localized infrastructure change can restore access to a much larger network of habitat.
+
+### Evidence matrix
+
+| Factor                       | Evidence                                     |
+| ---------------------------- | -------------------------------------------- |
+| Early intervention           | **Partially documented**                     |
+| Strong baseline data         | **Documented**                               |
+| Explicit biological targets  | **Partially documented**                     |
+| Harvest reduction            | **Not principal intervention**               |
+| Habitat protection           | **Documented**                               |
+| Habitat restoration          | **Documented**                               |
+| Monitoring                   | **Documented**                               |
+| Long-term funding            | **Partially documented**                     |
+| Federal-state coordination   | **Documented**                               |
+| Tribal participation         | **Insufficient evidence for current matrix** |
+| International coordination   | **Not applicable**                           |
+| Private-sector participation | **Documented/Partially documented**          |
+| Adaptive management          | **Partially documented**                     |
+| Enforcement/compliance       | **Not central**                              |
+| Institutional continuity     | **Requires further evidence**                |
+| Biological improvement       | **Too early for final determination**        |
+| Durable improvement          | **Insufficient evidence**                    |
+
+### Institutional lesson
+
+Alameda Creek illustrates the concept of the **ecological bottleneck**.
+
+Restoration investments can remain underperforming when a single remaining barrier prevents organisms from reaching otherwise suitable habitat.
+
+This suggests that conservation planning should identify not merely where degradation exists, but **which constraint prevents the ecological system from functioning**.
+
+---
+
+# 8. Case F — Oregon Coast Coho / Salmon SuperHwy
+
+### Starting condition
+
+Oregon Coast salmon populations depend upon a connected network of rivers, tributaries, estuaries, and associated habitat.
+
+The Salmon SuperHwy initiative is designed around removal of multiple passage barriers across watersheds rather than a single project.
+
+NOAA reports that the effort involves more than a dozen organizations and is expected to reconnect approximately 180 miles of habitat when completed.
+
+### Intervention
+
+The intervention is characterized by:
+
+* multiple barrier removals;
+* watershed-scale coordination;
+* habitat restoration;
+* fish passage improvement;
+* collaboration among multiple organizations.
+
+### Evidence matrix
+
+| Factor                       | Evidence                                    |
+| ---------------------------- | ------------------------------------------- |
+| Early intervention           | **Partially documented**                    |
+| Strong baseline data         | **Documented**                              |
+| Explicit biological targets  | **Documented/Partially documented**         |
+| Harvest reduction            | **Partially documented**                    |
+| Habitat protection           | **Documented**                              |
+| Habitat restoration          | **Documented**                              |
+| Monitoring                   | **Documented**                              |
+| Long-term funding            | **Partially documented**                    |
+| Federal-state coordination   | **Documented**                              |
+| Tribal participation         | **Requires further case-specific research** |
+| International coordination   | **Not applicable**                          |
+| Private-sector participation | **Documented**                              |
+| Adaptive management          | **Documented/Partially documented**         |
+| Enforcement/compliance       | **Not principal intervention**              |
+| Institutional continuity     | **Requires further evidence**               |
+| Biological improvement       | **Ongoing**                                 |
+| Durable improvement          | **Not yet established**                     |
+
+### Institutional lesson
+
+The Salmon SuperHwy illustrates a different conservation strategy from traditional stock management.
+
+Instead of attempting to control one variable across an entire population, the project addresses a **distributed set of physical constraints**.
+
+That makes it particularly useful for studying whether coordination across many smaller interventions can produce a system-level ecological benefit.
+
+---
+
+# 9. Cross-Case Evidence Matrix
+
+The cases can now be compared at the systems level.
+
+| Factor                     | Scallop | Bluefin                            | Elwha               | Cedar                              | Alameda             | Oregon Coast        |
+| -------------------------- | ------- | ---------------------------------- | ------------------- | ---------------------------------- | ------------------- | ------------------- |
+| Explicit biological target | **D**   | **D**                              | **D**               | **P**                              | **P**               | **P/D**             |
+| Strong baseline            | **P/D** | **D**                              | **D**               | **D**                              | **D**               | **D**               |
+| Harvest management         | **D**   | **D**                              | **D**               | **P**                              | —                   | **P**               |
+| Habitat intervention       | **P**   | —                                  | **D**               | **D**                              | **D**               | **D**               |
+| Monitoring                 | **D**   | **D**                              | **D**               | **D**                              | **D**               | **D**               |
+| Adaptive management        | **D**   | **D**                              | **D**               | **D**                              | **P**               | **P/D**             |
+| Federal-state coordination | **P/D** | **P**                              | **D**               | **D**                              | **D**               | **D**               |
+| Tribal involvement         | **I**   | **I**                              | **D**               | **P**                              | **I**               | **I**               |
+| International coordination | —       | **D**                              | —                   | —                                  | —                   | —                   |
+| Biological improvement     | **D**   | **D**                              | **D**               | **D**                              | **Ongoing**         | **Ongoing**         |
+| Durable recovery           | **D/P** | **Requires continued observation** | **Not established** | **Requires continued observation** | **Not established** | **Not established** |
+
+**Key:** D = documented; P = partially documented; I = insufficient evidence; — = not applicable; Ongoing = project is still developing.
+
+The matrix should be treated as an **evidence map, not a scorecard**.
+
+---
+
+# 10. What the Cases Have in Common
+
+Several patterns are becoming more apparent.
+
+## 10.1 Measurement precedes meaningful adaptive management
+
+The strongest cases have relatively good information about the biological system.
+
+That does not mean uncertainty disappears.
+
+Rather, managers have enough information to identify a condition, establish an objective, and determine whether conditions are changing.
+
+---
+
+## 10.2 Recovery generally requires multiple interventions
+
+The scallop case involved effort restrictions, closures, gear rules, monitoring, and later rotational management.
+
+Elwha combines dam removal with harvest and hatchery measures.
+
+Bluefin recovery required international catch controls and scientific coordination.
+
+This reinforces the wildlife finding that conservation rarely succeeds through a single intervention.
+
+---
+
+## 10.3 Ecological connectivity can be a major constraint
+
+Elwha, Cedar River, Alameda Creek, and Oregon Coast projects all demonstrate the importance of physical connectivity.
+
+A population cannot use habitat that it cannot reach.
+
+This seems obvious ecologically but can be difficult institutionally because barriers may be owned or regulated by organizations whose primary mission is not conservation.
+
+---
+
+## 10.4 Authority is often distributed across institutions
+
+The cases involve combinations of:
+
+* federal agencies;
+* states;
+* Tribal governments;
+* local governments;
+* utilities;
+* fishing industries;
+* universities;
+* conservation organizations.
+
+This supports the systems-map conclusion that American conservation is better understood as a network than a hierarchy.
+
+---
+
+## 10.5 Time matters
+
+The marine rebuilding cases demonstrate that biological recovery can take years.
+
+The Elwha demonstrates that ecosystem recovery can take decades.
+
+This has an important implication for performance management:
+
+**Conservation programs should distinguish annual implementation milestones from long-term biological outcomes.**
+
+---
+
+# 11. Where the Cases Diverge
+
+The cases also demonstrate why a single national fisheries-performance metric cannot capture the entire aquatic conservation system.
+
+### Stock management
+
+The scallop and bluefin cases have relatively clear biological targets.
+
+### Habitat restoration
+
+Elwha and Alameda involve ecosystem processes that cannot be reduced to a single stock-status indicator.
+
+### Watershed restoration
+
+Oregon Coast restoration involves multiple species, barriers, habitats, and projects.
+
+### International governance
+
+Bluefin demonstrates that national authority may cover only a fraction of total ecological governance.
+
+Consequently:
+
+> Fisheries performance measurement is strongest when the management problem is clearly defined, the biological population can be assessed, and management authority substantially overlaps with the source of the problem.
+
+It becomes more complicated as ecological causation and institutional authority diverge.
+
+---
+
+# 12. The Emerging Bottleneck Framework
+
+The case studies support adding a new analytical concept to American Conservation Renewal:
+
+## Conservation bottleneck
+
+A **conservation bottleneck** is a limiting condition that prevents other conservation investments from producing their full ecological effect.
+
+Potential bottlenecks include:
+
+* excessive harvest;
+* inaccessible habitat;
+* inadequate water quantity;
+* degraded water quality;
+* invasive species;
+* inadequate spawning habitat;
+* fragmented jurisdiction;
+* insufficient scientific information;
+* lack of enforcement;
+* unstable funding;
+* absence of institutional authority.
+
+This concept could improve the project's future policy analysis.
+
+Rather than asking:
+
+> How much are we spending?
+
+the system should also ask:
+
+> What is currently preventing the resource from improving?
+
+That question is more closely connected to ecological performance.
+
+---
+
+# 13. A Revised Aquatic Performance Model
+
+The evidence suggests a refinement of the original fisheries feedback loop.
+
+### Stage 1 — Detect
+
+Measure ecological condition.
+
+### Stage 2 — Diagnose
+
+Determine the principal biological and institutional constraints.
+
+### Stage 3 — Define
+
+Establish measurable ecological objectives.
+
+### Stage 4 — Assign
+
+Identify which institution or combination of institutions possesses the necessary authority.
+
+### Stage 5 — Intervene
+
+Apply the relevant management, restoration, regulatory, or incentive tools.
+
+### Stage 6 — Monitor
+
+Measure implementation and biological response.
+
+### Stage 7 — Evaluate
+
+Determine whether the intervention is producing the intended ecological response.
+
+### Stage 8 — Adapt
+
+Modify the intervention when evidence indicates that conditions or assumptions have changed.
+
+### Stage 9 — Recover
+
+Determine whether the resource has reached the defined biological objective.
+
+### Stage 10 — Maintain
+
+Preserve the conditions that produced recovery and monitor for renewed decline.
+
+The resulting model is:
+
+**Detect → Diagnose → Define → Assign → Intervene → Monitor → Evaluate → Adapt → Recover → Maintain**
+
+This is becoming one of the strongest candidate models for the broader American Conservation Renewal framework.
+
+---
+
+# 14. Implications for the National Conservation System
+
+The fisheries evidence suggests that a high-performing conservation system needs more than strong individual programs.
+
+It needs **connections between functions**.
+
+### Science must connect to decisions.
+
+A high-quality assessment has limited conservation value if it does not influence management.
+
+### Authority must connect to ecological scale.
+
+A conservation institution cannot fully solve a problem it lacks authority to address.
+
+### Funding must connect to biological timelines.
+
+Short-term grants are poorly matched to ecological processes requiring decades of monitoring.
+
+### Monitoring must connect to adaptation.
+
+Collecting information without changing management when warranted creates a measurement system rather than an adaptive management system.
+
+### Recovery must connect to maintenance.
+
+A rebuilt population can decline again if institutions stop monitoring or managing the conditions that supported recovery.
+
+---
+
+# 15. Comparison With Wildlife
+
+The fisheries cases strengthen several conclusions from the wildlife pillar.
+
+### Wildlife
+
+**Monitor → Detect → Prevent → Recover → Verify → Maintain**
+
+### Fisheries
+
+**Detect → Diagnose → Define → Assign → Intervene → Monitor → Evaluate → Adapt → Recover → Maintain**
+
+The fisheries system is particularly strong in the middle of this sequence:
+
+**Define → Intervene → Monitor → Evaluate → Adapt**
+
+The wildlife system has greater institutional emphasis on legal protection and recovery planning but less standardized national measurement of continuous biological performance.
+
+This suggests a possible future synthesis:
+
+> The strongest national conservation architecture may combine the wildlife system's emphasis on prevention and species protection with the fisheries system's emphasis on recurring measurement, explicit biological thresholds, and adaptive management.
+
+That is a hypothesis to be tested across additional pillars—not a conclusion to be assumed in advance.
+
+---
+
+# 16. Evidence Gaps
+
+The case-study matrix is not yet complete.
+
+Several questions require additional research before the fisheries pillar moves into policy recommendations:
+
+1. **How frequently do rebuilt stocks subsequently decline?**
+2. **How long does biological improvement typically take?**
+3. **What distinguishes rapidly rebuilt stocks from persistently overfished stocks?**
+4. **How important is enforcement relative to management design?**
+5. **How frequently do habitat constraints limit otherwise effective fisheries management?**
+6. **How do Tribal co-management arrangements affect outcomes?**
+7. **What is the cost per unit of ecological improvement for different interventions?**
+8. **Which restoration projects produce measurable population-level benefits?**
+9. **How should uncertainty be incorporated into national performance measures?**
+10. **How durable are rebuilding outcomes after formal rebuilding status is achieved?**
+
+These questions should become the basis for the next research stage.
+
+---
+
+# 17. Interim Conclusion
+
+The case-study evidence strengthens the national fisheries baseline but also complicates it.
+
+The federal fisheries system has developed a comparatively sophisticated mechanism for measuring and responding to stock condition.
+
+Yet the broader aquatic conservation problem is considerably larger.
+
+A stock may be well assessed while its habitat deteriorates.
+
+A river may be restored while population recovery takes decades.
+
+A barrier may be removed while another bottleneck remains.
+
+A U.S. management program may be effective while an international stock remains dependent on foreign decisions.
+
+The central lesson is therefore not simply that fisheries management works.
+
+It is that **conservation performance depends on whether institutions can identify the actual limiting constraint and bring the necessary authority, science, funding, and implementation capacity to bear on it.**
+
+That finding connects directly to the systems-level objective of American Conservation Renewal.
+
+The next stage should therefore be **v0.5.4 — Fisheries & Aquatic Resources: Cross-Case Findings and Performance Framework**, where the case evidence is synthesized into a formal fisheries performance model and then compared directly against the Wildlife & Biodiversity pillar.
