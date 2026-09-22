@@ -1,0 +1,1468 @@
+# Conservation Renewal Agenda
+
+## v0.6.8 — Conservation Science & Data Case-Study Evidence Matrix
+
+### 1. Purpose
+
+The national baseline established that the United States possesses extensive conservation science and monitoring capacity. The more difficult question is whether that information infrastructure consistently produces better conservation decisions and measurable ecological outcomes.
+
+This case-study assessment therefore examines information systems across different ecological domains and institutional settings.
+
+The analytical sequence is:
+
+**OBSERVE → STANDARDIZE → INTEGRATE → ASSESS → DECIDE → ACT → MONITOR → LEARN**
+
+Each case is evaluated according to:
+
+1. institutional purpose;
+2. observation system;
+3. spatial scale;
+4. temporal scale;
+5. data quality;
+6. standardization;
+7. interoperability;
+8. analytical capacity;
+9. decision connection;
+10. management use;
+11. feedback;
+12. durability.
+
+Evidence is categorized as:
+
+* **Documented**
+* **Partially documented**
+* **Uncertain**
+* **Contradictory**
+* **Insufficient evidence**
+
+The objective is not to rank information systems, but to identify the institutional characteristics associated with effective conversion of information into conservation action.
+
+---
+
+# 2. Case 1 — National Ecological Observatory Network
+
+## Institutional purpose
+
+The National Ecological Observatory Network (NEON) represents an effort to establish standardized, long-term ecological observations across a continental-scale network.
+
+Its importance for American conservation lies partly in its potential to overcome one of the recurring weaknesses identified elsewhere in the project: fragmented observations collected using incompatible approaches.
+
+## Observation
+
+NEON collects standardized information concerning ecological conditions across multiple domains, including:
+
+* terrestrial ecosystems;
+* aquatic systems;
+* atmosphere;
+* biodiversity;
+* vegetation;
+* soil;
+* microbes;
+* land use and disturbance.
+
+It also combines field observations with automated instrumentation and airborne observations.
+
+## Spatial scale
+
+The network is designed around geographically distributed observatory sites representing broad ecological and climatic gradients.
+
+This creates a useful bridge between:
+
+**site-level observation → regional ecological inference**
+
+although site-based networks cannot fully replace geographically comprehensive monitoring.
+
+## Temporal scale
+
+A major strength is continuity.
+
+Long-term observations allow researchers to investigate ecological change that cannot be captured through short-duration projects.
+
+## Data quality
+
+**Documented strength.**
+
+Standardized protocols and repeated observations provide a foundation for comparable measurements.
+
+However, standardization does not eliminate uncertainty or make every measurement equally appropriate for every conservation question.
+
+## Interoperability
+
+**Partially documented.**
+
+NEON data can support integration with other ecological datasets, but integration remains dependent on compatible geographic units, variables, metadata, and analytical methods.
+
+## Decision connection
+
+**Uncertain/variable.**
+
+NEON is fundamentally scientific infrastructure rather than a direct regulatory decision system.
+
+Its greatest contribution may therefore be indirect:
+
+**observation → research → ecological understanding → improved future decisions**
+
+rather than:
+
+**observation → immediate management action.**
+
+## Feedback
+
+The network supports research and ecological assessment, but its contribution to recurring agency management decisions varies by application.
+
+## Durability
+
+Long-term ecological observation is one of the system's defining values.
+
+The key institutional question is whether funding, instrumentation, protocols, and data stewardship remain sufficiently stable over decades.
+
+## Case assessment
+
+| Dimension           | Assessment             |
+| ------------------- | ---------------------- |
+| Observation         | Documented             |
+| Standardization     | Documented             |
+| Long-term value     | Documented             |
+| Interoperability    | Partially documented   |
+| Decision connection | Variable               |
+| Feedback            | Variable               |
+| Durability          | High-value requirement |
+
+### Institutional lesson
+
+**Scientific infrastructure can have substantial conservation value even when it is not directly attached to a management decision, but its value increases when observations can be connected to operational conservation questions.**
+
+---
+
+# 3. Case 2 — USGS Water Monitoring
+
+## Institutional purpose
+
+USGS water monitoring provides one of the most extensive long-term environmental observation infrastructures in the United States.
+
+The system supports information concerning:
+
+* streamflow;
+* groundwater;
+* water quality;
+* sediment;
+* water availability;
+* hydrologic conditions.
+
+## Observation
+
+The USGS streamgage network is particularly important because many water-management decisions depend on knowing how rivers and streams behave over time.
+
+Long-term hydrologic records can reveal:
+
+* floods;
+* drought;
+* seasonal patterns;
+* changing flow regimes;
+* water availability;
+* unusual conditions.
+
+## Spatial scale
+
+Water monitoring is distributed across watersheds and river systems.
+
+The fundamental ecological advantage is that observations can be linked to hydrologic processes operating across administrative boundaries.
+
+## Temporal scale
+
+**Documented strength.**
+
+Many monitoring records extend for decades.
+
+This allows current conditions to be interpreted against historical variability.
+
+## Data quality
+
+**Documented strength**, although individual stations and datasets vary according to purpose, instrumentation, sampling design, and maintenance.
+
+## Interoperability
+
+Hydrologic information can be combined with:
+
+* precipitation;
+* groundwater;
+* water quality;
+* habitat;
+* fish;
+* reservoir operations;
+* climate;
+* land use.
+
+The challenge is not necessarily technical availability but institutional integration.
+
+## Decision connection
+
+**Strong in some contexts.**
+
+Hydrologic observations directly inform:
+
+* reservoir management;
+* flood response;
+* water allocation;
+* infrastructure operations;
+* drought assessment;
+* ecological analysis.
+
+## Feedback
+
+Repeated measurements allow management decisions to be evaluated against subsequent hydrologic conditions.
+
+## Case assessment
+
+| Dimension                     | Assessment                  |
+| ----------------------------- | --------------------------- |
+| Observation                   | Documented                  |
+| Long-term continuity          | Documented                  |
+| Standardization               | Strong                      |
+| Decision connection           | Strong in many applications |
+| Cross-institution integration | Variable                    |
+| Ecological integration        | Variable                    |
+| Durability                    | Critical                    |
+
+### Institutional lesson
+
+**Long-term environmental observation becomes particularly valuable when it supports recurring decisions with clearly defined operational consequences.**
+
+---
+
+# 4. Case 3 — NOAA Fisheries Stock Assessments
+
+## Institutional purpose
+
+Stock assessments represent one of the clearest examples in the conservation system of information being embedded directly into recurring management decisions.
+
+The general cycle is:
+
+**Sampling → Assessment → Reference Point → Management Decision → Implementation → Monitoring → Reassessment**
+
+## Observation
+
+Assessments can incorporate:
+
+* abundance;
+* age structure;
+* recruitment;
+* fishing mortality;
+* biological characteristics;
+* survey information;
+* catch data;
+* environmental information.
+
+## Standardization
+
+**Strongly developed.**
+
+The fisheries management system has established concepts such as:
+
+* overfished;
+* overfishing;
+* rebuilding;
+* biological reference points;
+* acceptable biological catch;
+* management measures.
+
+This creates a shared vocabulary between scientists and managers.
+
+## Decision connection
+
+**Documented and explicit.**
+
+Assessment results are incorporated into fishery-management processes.
+
+This is one of the strongest examples in the broader American Conservation Renewal project of:
+
+**information → decision threshold → management response.**
+
+## Feedback
+
+Management measures alter fishing pressure, after which new assessments determine whether conditions changed.
+
+This creates a genuine feedback loop.
+
+## Limitations
+
+The system still faces:
+
+* uncertainty;
+* data limitations;
+* multispecies interactions;
+* habitat constraints;
+* environmental variability;
+* international management;
+* enforcement challenges.
+
+A strong information system therefore does not guarantee a simple ecological outcome.
+
+## Case assessment
+
+| Dimension              | Assessment                |
+| ---------------------- | ------------------------- |
+| Observation            | Strong                    |
+| Standardization        | Strong                    |
+| Decision connection    | Strong                    |
+| Feedback               | Strong                    |
+| Uncertainty management | Developed                 |
+| Ecological attribution | Variable                  |
+| Durability             | Strong institutional need |
+
+### Institutional lesson
+
+**Information becomes especially powerful when management systems define in advance how evidence will influence decisions.**
+
+---
+
+# 5. Case 4 — National Park Service Inventory & Monitoring
+
+## Institutional purpose
+
+The NPS Inventory and Monitoring Program provides standardized ecological information intended to help park managers understand changing resource conditions.
+
+## Observation
+
+Monitoring networks collect information concerning:
+
+* vegetation;
+* wildlife;
+* water;
+* air;
+* climate;
+* disturbance;
+* invasive species;
+* ecosystem processes.
+
+## Spatial scale
+
+Monitoring occurs across park units organized into ecological networks.
+
+This is useful because ecological processes often extend beyond individual park boundaries.
+
+## Temporal scale
+
+Long-term monitoring is central to the program.
+
+This allows managers to distinguish short-term variation from longer-term trends.
+
+## Data quality
+
+**Strong institutional emphasis.**
+
+Standardized protocols improve comparability.
+
+## Decision connection
+
+**Partially documented.**
+
+Monitoring is designed to support park management, but the relationship between observation and specific management intervention varies by resource and park.
+
+This distinction matters.
+
+A park may successfully detect:
+
+* declining habitat quality;
+* invasive species;
+* changing hydrology;
+* altered fire regimes;
+
+while lacking authority to control the external driver.
+
+## Feedback
+
+Where monitoring results are incorporated into management planning or intervention, feedback is stronger.
+
+Where external drivers dominate, monitoring may primarily document conditions.
+
+## Case assessment
+
+| Dimension               | Assessment |
+| ----------------------- | ---------- |
+| Monitoring              | Strong     |
+| Standardization         | Strong     |
+| Long-term value         | Strong     |
+| Decision connection     | Variable   |
+| External-driver control | Variable   |
+| Feedback                | Variable   |
+
+### Institutional lesson
+
+**Monitoring can reveal ecological problems even when the institution conducting the monitoring lacks authority over their causes.**
+
+This is an important distinction between **knowledge capacity** and **response capacity**.
+
+---
+
+# 6. Case 5 — BLM Assessment, Inventory & Monitoring
+
+## Institutional purpose
+
+BLM's Assessment, Inventory and Monitoring framework provides standardized information about landscape condition and trend.
+
+It is particularly relevant to:
+
+* vegetation;
+* soils;
+* rangelands;
+* habitat;
+* landscape condition.
+
+## Observation
+
+A standardized monitoring framework allows observations to be collected consistently across large areas.
+
+## Decision connection
+
+The potential decision pathway is:
+
+**Measurement → Land-health determination → Diagnosis → Management response**
+
+This is unusually important because it connects monitoring to an explicit management framework.
+
+## Performance question
+
+The critical question is not whether measurements exist.
+
+It is:
+
+> **When monitoring identifies a problem, does the information reliably trigger diagnosis and corrective management?**
+
+That question requires case-level evidence.
+
+## Case assessment
+
+| Dimension                | Assessment                     |
+| ------------------------ | ------------------------------ |
+| Standardized observation | Strong                         |
+| Landscape scale          | Strong                         |
+| Condition assessment     | Strong                         |
+| Diagnostic connection    | Explicit                       |
+| Corrective response      | Requires case-level evaluation |
+| Long-term trend          | Valuable                       |
+
+### Institutional lesson
+
+**A monitoring program becomes more useful when the institutional system specifies what happens after an adverse condition is detected.**
+
+---
+
+# 7. Case 6 — Forest Inventory and Analysis
+
+## Institutional purpose
+
+Forest Inventory and Analysis provides long-term information concerning forest resources across the United States.
+
+It supports analysis of:
+
+* forest composition;
+* structure;
+* biomass;
+* growth;
+* mortality;
+* removals;
+* forest health;
+* land-use change.
+
+## Observation
+
+The program's repeated sampling creates a national forest information baseline.
+
+## Temporal scale
+
+Long-term observations are particularly valuable for forests because:
+
+* trees grow slowly;
+* succession occurs over decades;
+* disturbances can have long recovery periods;
+* management effects may take years to become visible.
+
+## Decision connection
+
+FIA supports:
+
+* forest policy;
+* research;
+* planning;
+* resource assessments;
+* ecological analysis.
+
+However, it is not itself a forest-management decision system.
+
+## Case assessment
+
+| Dimension                  | Assessment |
+| -------------------------- | ---------- |
+| Geographic coverage        | Strong     |
+| Long-term data             | Strong     |
+| Standardization            | Strong     |
+| Ecological value           | Strong     |
+| Direct decision connection | Variable   |
+| Durability                 | Essential  |
+
+### Institutional lesson
+
+**Long-term standardized inventories provide a form of institutional memory that individual management projects cannot reproduce.**
+
+---
+
+# 8. Case 7 — National Wetlands Inventory
+
+## Institutional purpose
+
+The National Wetlands Inventory provides spatial information about wetlands across the United States.
+
+## Observation
+
+Its primary value is geographic:
+
+**Where are wetlands?**
+
+This supports:
+
+* conservation planning;
+* habitat analysis;
+* development review;
+* watershed planning;
+* restoration;
+* land-use analysis.
+
+## Limitation
+
+Wetland mapping is not equivalent to wetland ecological condition.
+
+A mapped wetland may differ substantially in:
+
+* hydrology;
+* vegetation;
+* water quality;
+* habitat;
+* ecological function.
+
+This illustrates an important distinction:
+
+> **Inventory ≠ condition assessment.**
+
+## Interoperability
+
+Wetland data become substantially more useful when combined with:
+
+* watersheds;
+* land cover;
+* species;
+* hydrology;
+* protected areas;
+* development;
+* restoration projects.
+
+## Case assessment
+
+| Dimension                      | Assessment                   |
+| ------------------------------ | ---------------------------- |
+| Geographic inventory           | Strong                       |
+| Spatial utility                | Strong                       |
+| Condition measurement          | Limited by design            |
+| Interoperability               | High potential               |
+| Ecological outcome measurement | Requires additional datasets |
+
+### Institutional lesson
+
+**A national inventory can provide foundational infrastructure without being a complete ecological monitoring system.**
+
+---
+
+# 9. Case 8 — National Land Cover Database
+
+## Institutional purpose
+
+National land-cover datasets provide standardized information about land-cover categories and changes across broad geographic areas.
+
+## Conservation value
+
+Land-cover information can support analysis of:
+
+* habitat;
+* fragmentation;
+* development;
+* agricultural conversion;
+* forest change;
+* wetland change;
+* restoration;
+* connectivity.
+
+## Strength
+
+Its greatest value is integration.
+
+Land-cover information can serve as a common spatial layer connecting otherwise separate datasets.
+
+## Limitation
+
+Land-cover classes remain proxies for ecological condition.
+
+Two areas classified similarly may differ substantially in:
+
+* species composition;
+* structural complexity;
+* ecological function;
+* disturbance history;
+* resilience.
+
+## Case assessment
+
+| Dimension                   | Assessment                         |
+| --------------------------- | ---------------------------------- |
+| Geographic coverage         | Strong                             |
+| Standardization             | Strong                             |
+| Integration value           | Strong                             |
+| Direct ecological inference | Limited                            |
+| Decision relevance          | High when combined with other data |
+
+### Institutional lesson
+
+**Some information systems create conservation value primarily by providing a common spatial framework for other information.**
+
+---
+
+# 10. Case 9 — eBird and Large-Scale Citizen Science
+
+## Institutional purpose
+
+Large-scale bird-observation networks demonstrate the potential of citizen science to produce observations at geographic and temporal scales that would be difficult for professional monitoring alone to achieve.
+
+## Observation
+
+The dataset can provide extensive information concerning:
+
+* species occurrence;
+* distribution;
+* timing;
+* migration;
+* relative abundance;
+* seasonal patterns.
+
+## Strengths
+
+Citizen participation provides:
+
+* enormous observation volume;
+* geographic breadth;
+* repeated observations;
+* rapid reporting;
+* long-term participation.
+
+## Analytical challenge
+
+Observation effort is not randomly distributed.
+
+Observers tend to concentrate around:
+
+* populated areas;
+* roads;
+* parks;
+* accessible habitats;
+* locations of personal interest.
+
+Therefore:
+
+**raw observation density ≠ population density.**
+
+Statistical methods can account for some forms of sampling bias, but the reliability of the resulting inference depends on study design and analytical assumptions.
+
+## Decision connection
+
+Citizen-science data can support:
+
+* species-distribution modeling;
+* migration analysis;
+* conservation assessment;
+* research;
+* early detection.
+
+Its direct role in regulatory decisions varies.
+
+## Case assessment
+
+| Dimension           | Assessment                        |
+| ------------------- | --------------------------------- |
+| Geographic scale    | Very strong                       |
+| Observation volume  | Very strong                       |
+| Sampling bias       | Significant analytical issue      |
+| Scientific utility  | Strong when appropriately modeled |
+| Decision connection | Variable                          |
+| Standardization     | Improving/variable by application |
+
+### Institutional lesson
+
+**Citizen science can dramatically expand monitoring capacity when observation bias is treated as a statistical problem rather than ignored.**
+
+---
+
+# 11. Case 10 — iNaturalist and Opportunistic Biodiversity Data
+
+## Institutional purpose
+
+iNaturalist-style observation systems provide broad biodiversity observations generated by members of the public.
+
+## Strengths
+
+They can help identify:
+
+* species distributions;
+* invasive species;
+* rare observations;
+* range expansions;
+* phenological changes;
+* previously undocumented occurrences.
+
+## Limitation
+
+The data are opportunistic.
+
+Sampling is influenced by:
+
+* where users travel;
+* which organisms they notice;
+* user expertise;
+* photography opportunities;
+* accessibility;
+* season;
+* geographic interest.
+
+This creates systematic bias.
+
+The user's prior research on citizen-science data for mammalian species-distribution models is particularly relevant here: opportunistic biodiversity observations can contain substantial spatial, temporal, taxonomic, and detectability biases.
+
+The broader lesson is that **large datasets are not automatically representative datasets**.
+
+## Case assessment
+
+| Dimension                        | Assessment               |
+| -------------------------------- | ------------------------ |
+| Species coverage                 | Strong                   |
+| Geographic reach                 | Strong                   |
+| Detection of unusual occurrences | Strong potential         |
+| Sampling bias                    | Major consideration      |
+| Direct abundance inference       | Limited without modeling |
+| Decision utility                 | Application-dependent    |
+
+### Institutional lesson
+
+**Citizen science is most valuable when its biases are explicitly characterized and incorporated into analysis.**
+
+---
+
+# 12. Case 11 — Integrated Biodiversity Databases
+
+The United States also relies on systems that aggregate biodiversity information from multiple sources.
+
+These systems may combine:
+
+* museum collections;
+* agency observations;
+* scientific surveys;
+* citizen science;
+* research projects;
+* historical records.
+
+Their principal contribution is integration.
+
+## Benefits
+
+Integrated biodiversity databases can help researchers determine:
+
+* where species have been observed;
+* how ranges have changed;
+* where data gaps exist;
+* where species may occur;
+* where conservation priorities overlap.
+
+## Risks
+
+Integration can introduce new problems:
+
+* duplicate records;
+* inconsistent taxonomy;
+* different observation protocols;
+* varying geographic accuracy;
+* uncertain dates;
+* uneven sampling effort;
+* inconsistent metadata.
+
+The process therefore requires quality control rather than simple aggregation.
+
+## Case assessment
+
+| Dimension           | Assessment                   |
+| ------------------- | ---------------------------- |
+| Data integration    | Strong potential             |
+| Geographic breadth  | Strong                       |
+| Taxonomic breadth   | Strong                       |
+| Quality consistency | Variable                     |
+| Metadata importance | Very high                    |
+| Analytical value    | High when quality controlled |
+
+### Institutional lesson
+
+**Data integration creates value only when differences among source datasets remain visible and analytically manageable.**
+
+---
+
+# 13. Case 12 — Remote Sensing for Conservation Monitoring
+
+Remote sensing represents a fundamentally different information architecture from field monitoring.
+
+Instead of observing individual organisms or sampling locations directly, remote sensing can provide repeated measurements across enormous geographic areas.
+
+## Applications
+
+Potential applications include:
+
+* forest disturbance;
+* fire severity;
+* vegetation change;
+* habitat fragmentation;
+* wetland change;
+* surface water;
+* coastal change;
+* land conversion;
+* snowpack;
+* habitat structure.
+
+## Strengths
+
+Remote sensing provides:
+
+* geographic scale;
+* repeated observation;
+* historical archives;
+* standardized imagery;
+* access to difficult terrain.
+
+## Limitations
+
+Important ecological variables remain difficult to measure remotely.
+
+For example:
+
+* population health;
+* behavior;
+* recruitment;
+* disease;
+* species interactions;
+* genetic condition;
+* ecological function.
+
+Remote sensing therefore works best as part of a **multi-source observation architecture**.
+
+## Case assessment
+
+| Dimension                     | Assessment      |
+| ----------------------------- | --------------- |
+| Geographic coverage           | Very strong     |
+| Repeatability                 | Strong          |
+| Historical information        | Strong          |
+| Direct biological measurement | Variable        |
+| Field validation              | Often necessary |
+| Integration potential         | Very strong     |
+
+### Institutional lesson
+
+**Remote sensing greatly expands observation capacity, but ecological interpretation still depends on field measurements, models, and biological knowledge.**
+
+---
+
+# 14. Cross-Case Comparison
+
+The 12 cases reveal several recurring patterns.
+
+| Information function                 | Strongest examples                          |
+| ------------------------------------ | ------------------------------------------- |
+| Long-term standardized observation   | FIA, USGS, NPS, NEON                        |
+| Direct management connection         | NOAA fisheries, BLM                         |
+| Geographic coverage                  | Remote sensing, land cover, citizen science |
+| Spatial integration                  | GIS, land-cover data, wetlands inventory    |
+| Large-scale biodiversity observation | eBird, iNaturalist                          |
+| Ecological context                   | NPS, NEON, USGS                             |
+| Decision feedback                    | Fisheries, some land-health systems         |
+| Institutional memory                 | FIA, USGS, NPS, long-term monitoring        |
+
+No single system performs every function.
+
+That is itself an important finding.
+
+The national conservation information system is better understood as a **network of complementary information infrastructures**.
+
+---
+
+# 15. Cross-Case Finding 1 — Observation Is Not the Same as Information
+
+Every case demonstrates some distinction between raw observation and usable information.
+
+The sequence is:
+
+**Observation → Quality Control → Standardization → Interpretation**
+
+Skipping these steps can produce misleading conclusions.
+
+Large datasets are especially vulnerable to this problem because volume can create an illusion of certainty.
+
+---
+
+# 16. Cross-Case Finding 2 — Standardization Creates Institutional Memory
+
+Standardized protocols allow observations from different years to be compared.
+
+Without methodological continuity:
+
+**Year 1 → Year 2**
+
+may reflect a change in measurement rather than a change in ecology.
+
+This makes protocol documentation, calibration, metadata, and methodological continuity core components of conservation infrastructure.
+
+---
+
+# 17. Cross-Case Finding 3 — Interoperability Is a Force Multiplier
+
+Many datasets become more valuable when combined.
+
+Examples include:
+
+**species + land cover + roads**
+
+for connectivity analysis;
+
+**streamflow + temperature + fish**
+
+for aquatic habitat analysis;
+
+**fire + vegetation + wildlife**
+
+for disturbance analysis;
+
+**restoration project + baseline + biological response**
+
+for restoration evaluation.
+
+The value of integration can exceed the value of an additional isolated dataset.
+
+---
+
+# 18. Cross-Case Finding 4 — Decision Connection Is the Critical Divide
+
+The clearest difference among information systems is whether information has a defined pathway into management.
+
+The strongest architecture is:
+
+**Indicator → Assessment → Threshold → Authority → Decision → Action → Monitoring**
+
+Where no such pathway exists, information may remain primarily descriptive.
+
+This does not make descriptive science unimportant.
+
+It means its conservation value is mediated through later institutions.
+
+---
+
+# 19. Cross-Case Finding 5 — Information Can Identify Problems Without Solving Them
+
+Several systems demonstrate a recurring distinction:
+
+**Detection capacity ≠ response capacity**
+
+A monitoring system may identify:
+
+* declining populations;
+* deteriorating habitat;
+* changing hydrology;
+* invasive species;
+* forest disturbance.
+
+But the responsible institution may lack:
+
+* legal authority;
+* funding;
+* workforce;
+* jurisdiction;
+* political agreement;
+* management tools.
+
+This connects directly to the broader conservation bottleneck framework.
+
+---
+
+# 20. Cross-Case Finding 6 — Biological Indicators Remain Essential
+
+Physical and administrative indicators are often easier to measure.
+
+Examples:
+
+* acres treated;
+* projects completed;
+* miles restored;
+* permits issued;
+* monitoring sites established.
+
+But the ultimate question is generally biological or ecological:
+
+* Did populations improve?
+* Did habitat function improve?
+* Did water quality improve?
+* Did fish recruitment increase?
+* Did ecological processes recover?
+* Did the improvement persist?
+
+Therefore:
+
+**Activity → Physical Response → Biological Response → Ecological Function → Persistence**
+
+should be treated as a hierarchy rather than a single outcome.
+
+---
+
+# 21. Cross-Case Finding 7 — Attribution Is Difficult
+
+The cases also demonstrate why ecological attribution is difficult.
+
+A measured change can result from:
+
+* management;
+* weather;
+* climate variability;
+* disease;
+* invasive species;
+* land-use change;
+* demographic variation;
+* multiple simultaneous interventions.
+
+The evidence hierarchy remains:
+
+### Level 1 — Observation
+
+A change occurred.
+
+### Level 2 — Temporal association
+
+The change followed an intervention.
+
+### Level 3 — Mechanistic evidence
+
+A plausible mechanism connects intervention and response.
+
+### Level 4 — Comparative evidence
+
+Reference or comparison conditions support the relationship.
+
+### Level 5 — Strong causal evidence
+
+Study design substantially isolates the intervention's effect.
+
+This hierarchy should be incorporated into national conservation performance reporting.
+
+---
+
+# 22. Cross-Case Finding 8 — Scale Determines Information Value
+
+Different information systems operate at different scales.
+
+| Scale      | Example                  |
+| ---------- | ------------------------ |
+| Individual | animal observation       |
+| Population | species survey           |
+| Site       | monitoring plot          |
+| Project    | restoration site         |
+| Landscape  | forest or habitat system |
+| Watershed  | hydrologic system        |
+| Region     | ecological network       |
+| National   | land-cover dataset       |
+
+The scale of observation must correspond to the scale of the question.
+
+A site-level observation cannot automatically answer a landscape-level question.
+
+Similarly, national land-cover data cannot automatically answer a population-level question.
+
+---
+
+# 23. Cross-Case Finding 9 — Monitoring Is Most Valuable When It Supports Learning
+
+The strongest information systems create recurring feedback:
+
+**Measure → Decide → Act → Measure Again**
+
+This allows institutions to determine:
+
+* whether the intervention worked;
+* whether assumptions were correct;
+* whether conditions changed;
+* whether another intervention is required.
+
+This is the information equivalent of adaptive management.
+
+---
+
+# 24. Cross-Case Finding 10 — Durability Is a Performance Dimension
+
+Information systems require continuity.
+
+Their value can decline when:
+
+* monitoring stops;
+* protocols change;
+* databases become obsolete;
+* funding disappears;
+* records are poorly archived;
+* staff expertise is lost.
+
+The conservation system should therefore treat information continuity as an institutional asset.
+
+A twenty-year time series cannot easily be recreated after a decade-long interruption.
+
+---
+
+# 25. Information-System Failure Typology
+
+The case studies suggest seven distinct failure modes.
+
+### 1. Coverage Failure
+
+The relevant ecological condition is not adequately observed.
+
+### 2. Quality Failure
+
+Information exists but is too biased, incomplete, or uncertain for the intended use.
+
+### 3. Integration Failure
+
+Relevant datasets exist but cannot easily be combined.
+
+### 4. Interpretation Failure
+
+Observations exist but cannot be converted into sufficient ecological understanding.
+
+### 5. Decision Failure
+
+Useful information exists but does not influence management.
+
+### 6. Attribution Failure
+
+A response is observed but the contribution of an intervention cannot be established.
+
+### 7. Durability Failure
+
+Useful information systems deteriorate or disappear before their long-term value can be realized.
+
+This is preferable to describing every information problem as simply a "data gap."
+
+---
+
+# 26. Revised Conservation Information Performance Framework
+
+The case evidence supports the following architecture:
+
+## KNOW
+
+Observe ecological conditions.
+
+## STANDARDIZE
+
+Ensure measurements are comparable.
+
+## INTEGRATE
+
+Connect relevant datasets.
+
+## DIAGNOSE
+
+Interpret patterns and identify likely causes.
+
+## DECIDE
+
+Connect evidence to objectives, thresholds, and authority.
+
+## ACT
+
+Implement management.
+
+## MEASURE
+
+Observe the consequences.
+
+## LEARN
+
+Compare outcomes against expectations.
+
+## ADAPT
+
+Modify management where evidence warrants it.
+
+## MAINTAIN
+
+Preserve both ecological gains and information continuity.
+
+The full system is:
+
+**KNOW → STANDARDIZE → INTEGRATE → DIAGNOSE → DECIDE → ACT → MEASURE → LEARN → ADAPT → MAINTAIN**
+
+This extends the broader American Conservation Renewal architecture rather than replacing it.
+
+---
+
+# 27. Information Bottleneck Matrix
+
+| Bottleneck          | Example                         | Potential response              |
+| ------------------- | ------------------------------- | ------------------------------- |
+| Coverage            | Missing ecological observations | Targeted monitoring             |
+| Quality             | Biased observations             | Better sampling/modeling        |
+| Interoperability    | Incompatible datasets           | Standards/identifiers           |
+| Interpretation      | Unknown causal mechanism        | Research/analysis               |
+| Decision connection | Monitoring not linked to action | Decision pathways               |
+| Attribution         | Multiple possible causes        | Experimental/comparative design |
+| Durability          | Discontinued time series        | Long-term funding/archiving     |
+
+This matrix provides a more useful basis for policy development than a generic call for "better data."
+
+---
+
+# 28. Relationship to the Eight Conservation Bottlenecks
+
+The science/data pillar also demonstrates that information problems rarely exist independently.
+
+### Knowledge
+
+Is the ecological condition understood?
+
+### Diagnosis
+
+Are its causes understood?
+
+### Authority
+
+Can someone legally respond?
+
+### Capacity
+
+Are resources and personnel available?
+
+### Coordination
+
+Can relevant institutions act together?
+
+### Ecological
+
+Does the system respond as expected?
+
+### Allocation
+
+Can competing uses be reconciled?
+
+### Durability
+
+Can gains and institutional capacity persist?
+
+Science primarily addresses the first two.
+
+But the information system becomes most valuable when it connects to all eight.
+
+---
+
+# 29. Preliminary Policy Directions
+
+The case studies suggest several areas for later evaluation.
+
+### 1. National Conservation Data Standards
+
+Develop common minimum standards for:
+
+* identifiers;
+* metadata;
+* geographic references;
+* temporal references;
+* uncertainty;
+* versioning.
+
+### 2. Conservation Data Interoperability Framework
+
+Prioritize integration among existing systems rather than attempting to centralize all conservation data.
+
+### 3. Decision-Linked Monitoring
+
+Require major monitoring programs to identify:
+
+* decision supported;
+* responsible authority;
+* potential trigger;
+* expected management response.
+
+### 4. Long-Term Monitoring Infrastructure
+
+Treat strategically important time series as durable national infrastructure.
+
+### 5. National Early-Warning Architecture
+
+Connect monitoring systems to defined response pathways.
+
+### 6. Conservation Attribution Capacity
+
+Increase use of:
+
+* reference sites;
+* comparison sites;
+* BACI designs;
+* mechanistic studies;
+* long-term monitoring.
+
+### 7. Data Quality and Bias Framework
+
+Require conservation datasets to document major sampling biases and appropriate analytical limitations.
+
+### 8. Responsible AI Framework
+
+Establish standards for:
+
+* validation;
+* model documentation;
+* uncertainty;
+* human oversight;
+* reproducibility;
+* model drift.
+
+### 9. Tribal Data Governance
+
+Develop information-sharing structures that respect Tribal sovereignty and data governance requirements.
+
+### 10. Conservation Information Performance Reporting
+
+Evaluate major information systems based on:
+
+**Availability → Quality → Interoperability → Assessment → Decision Connection → Feedback → Durability**
+
+---
+
+# 30. Cross-Pillar Implication
+
+The first six pillars now form a recognizable system.
+
+### Wildlife
+
+**Population → Recovery**
+
+### Fisheries
+
+**Stock → Rebuilding**
+
+### Public Lands
+
+**Landscape → Ecological Condition**
+
+### Water
+
+**Watershed → Function**
+
+### Restoration
+
+**Degraded System → Ecological Recovery**
+
+### Science & Data
+
+**Observation → Knowledge → Decision → Learning**
+
+Science and data therefore should not be treated as one additional conservation sector.
+
+They are the **information layer supporting every other sector**.
+
+This suggests a structural distinction:
+
+> **Wildlife, fisheries, public lands, water, and restoration describe where conservation outcomes occur. Science and data describe how the system knows whether those outcomes are occurring.**
+
+---
+
+# 31. Emerging National Conservation Architecture
+
+The work completed through v0.9.2 increasingly supports a common model:
+
+**KNOW**
+
+↓
+
+**DIAGNOSE**
+
+↓
+
+**DECIDE**
+
+↓
+
+**ACT**
+
+↓
+
+**MEASURE**
+
+↓
+
+**LEARN**
+
+↓
+
+**ADAPT**
+
+↓
+
+**MAINTAIN**
+
+The specific intervention differs by pillar.
+
+But the institutional logic remains remarkably consistent.
+
+A wildlife decline requires a different intervention from a degraded watershed.
+
+A fishery rebuilding program differs from a forest restoration project.
+
+Yet each depends on the same fundamental institutional capabilities:
+
+* reliable information;
+* diagnosis;
+* authority;
+* resources;
+* coordinated implementation;
+* measurement;
+* learning;
+* adaptation;
+* durability.
+
+---
+
+# 32. Conclusion
+
+The case studies reinforce the national baseline's central conclusion.
+
+The United States does not lack conservation information.
+
+It possesses a remarkably extensive network of scientific observations, monitoring programs, inventories, surveys, databases, remote-sensing systems, citizen-science networks, and research institutions.
+
+The more important weakness is that these systems do not always connect seamlessly.
+
+Information may become stranded because:
+
+* observations are incompatible;
+* datasets lack common identifiers;
+* ecological questions exceed monitoring scales;
+* causal mechanisms remain uncertain;
+* monitoring is disconnected from management;
+* agencies lack authority over detected problems;
+* biological outcomes are not measured;
+* attribution is weak;
+* long-term continuity is uncertain.
+
+The most important national opportunity may therefore be **institutional connectivity rather than information accumulation**.
+
+The emerging principle is:
+
+> **A conservation information system succeeds when it reliably converts observations into knowledge, knowledge into decisions, decisions into action, and outcomes back into learning.**
+
+This completes the first major examination of conservation science and data.
+
+The next stage should turn from information infrastructure toward the human institutions that operate it.
