@@ -1,0 +1,871 @@
+# Conservation Renewal Agenda
+
+## v0.7.1 — Institutional Capacity & Workforce National Baseline
+
+### 1. Purpose
+
+Institutional capacity is one of the least visible but most consequential components of the American conservation system. Wildlife recovery, fisheries management, public-land stewardship, watershed protection, restoration, and scientific monitoring all depend on organizations having enough people with the appropriate expertise, administrative support, equipment, authority, and institutional continuity to perform their responsibilities.
+
+The baseline question is therefore not simply:
+
+> How many people work in conservation?
+
+It is:
+
+> **Does the conservation system possess sufficient capacity, in the right places and with the right expertise, to convert legal authority, scientific information, funding, and partnerships into sustained ecological outcomes?**
+
+This distinction becomes particularly important when evaluating workforce reductions, vacancies, contracting, organizational restructuring, or new investments. A reduction in headcount is not automatically a loss of conservation capacity, just as an increase in funding is not automatically an increase in implementation capacity.
+
+Institutional capacity should instead be understood as a combination of:
+
+**People + Expertise + Systems + Authority + Resources + Organizational Memory + Adaptability**
+
+---
+
+# 2. National Institutional Capacity Architecture
+
+American conservation capacity is distributed across several institutional layers.
+
+| Layer                      | Primary functions                                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Federal government         | National authorities, public lands, species protection, fisheries, science, grants, regulation                |
+| State governments          | Wildlife, freshwater fisheries, water allocation, state lands, enforcement, habitat                           |
+| Tribal governments         | Sovereign natural-resource management, treaty/reserved rights, fisheries, wildlife, water, cultural resources |
+| Local/regional governments | Land use, stormwater, parks, infrastructure, watershed management                                             |
+| Conservation districts     | Agricultural conservation and private-land technical assistance                                               |
+| Universities               | Research, training, modeling, monitoring, technical expertise                                                 |
+| NGOs                       | Restoration, land acquisition, advocacy, partnerships, implementation                                         |
+| Private landowners         | Habitat, working-land conservation, restoration, stewardship                                                  |
+| Contractors/consultants    | Specialized technical and implementation capacity                                                             |
+
+This structure provides considerable redundancy and specialization. It also creates potential gaps between organizations.
+
+A biologist may identify a population decline without having authority to address the underlying land-use problem. A watershed scientist may identify a water-quality impairment while another institution controls the relevant land-management practice. A land-management agency may have authority to implement a restoration project but lack sufficient contracting or engineering capacity.
+
+Consequently, **institutional interfaces are themselves a component of conservation capacity.**
+
+---
+
+# 3. Federal Conservation Workforce
+
+Federal agencies provide much of the country's national conservation infrastructure.
+
+The principal agencies include:
+
+* U.S. Fish and Wildlife Service
+* National Park Service
+* Bureau of Land Management
+* U.S. Forest Service
+* NOAA Fisheries
+* U.S. Geological Survey
+* Environmental Protection Agency
+* Natural Resources Conservation Service
+* Bureau of Reclamation
+* U.S. Army Corps of Engineers
+* Federal Energy Regulatory Commission
+
+Their responsibilities differ substantially. A fisheries stock assessor, refuge manager, hydrologist, wildland firefighter, grants specialist, contracting officer, enforcement officer, GIS analyst, and wildlife biologist cannot be treated as interchangeable units of labor.
+
+### 3.1 Recent federal workforce changes
+
+Recent federal workforce reductions provide an unusually useful demonstration of why aggregate headcount is an inadequate performance measure.
+
+GAO reported that federal agencies collectively experienced approximately 378,000 employee separations and approximately 127,000 hires during 2025, with most major agencies experiencing workforce declines exceeding 10 percent.
+
+Natural-resource agencies were among those experiencing substantial changes.
+
+For example, GAO reported that the Forest Service workforce declined from approximately 31,665 employees at the end of 2024 to 26,596 at the end of 2025. The agency recorded approximately 9,755 separations during 2025.
+
+A subsequent GAO review found that Forest Service officials identified staffing capacity as one factor limiting timber-sale management and reported that workforce reductions had further strained agency capacity. GAO also noted that the agency had not adequately assessed how workforce and organizational changes would affect its capacity.
+
+The Fish and Wildlife Service provides another example. GAO reported that FWS had 6,071 employees in March 2026, compared with 8,859 in February 2025. Within the National Wildlife Refuge System, staffing declined from 3,358 to 2,304 during the same period. FWS officials reported that workforce reductions had strained oversight resources and that the agency had not completed a documented assessment of long-term refuge staffing needs.
+
+These figures should not be interpreted as evidence that a particular staffing level is inherently adequate or inadequate. They demonstrate something more useful for this project:
+
+**The conservation system does not currently have sufficiently developed mission-based measures for determining how much workforce capacity is required for particular ecological responsibilities.**
+
+---
+
+# 4. Federal Workforce Measurement Problem
+
+Federal workforce data are relatively sophisticated compared with many other conservation-capacity datasets.
+
+OPM maintains FedScope and related workforce datasets containing information on federal employment, accessions, and separations. OPM has also expanded the availability and frequency of federal workforce information.
+
+The problem is that workforce statistics do not automatically reveal conservation capacity.
+
+A useful national dataset therefore needs to move through several levels:
+
+**Headcount → Occupation → Expertise → Workload → Mission Requirement → Effective Capacity**
+
+For example:
+
+> 100 employees
+
+is less informative than:
+
+> 100 employees responsible for 2 million acres, 400 permits, 70 restoration projects, 35 monitoring programs, and 20 statutory reporting requirements.
+
+The latter begins to describe capacity.
+
+---
+
+# 5. State Conservation Capacity
+
+States perform many functions that cannot be effectively centralized at the federal level.
+
+State agencies commonly administer:
+
+* resident wildlife programs;
+* hunting and fishing management;
+* freshwater fisheries;
+* state wildlife action plans;
+* state lands;
+* water allocation;
+* environmental permitting;
+* habitat programs;
+* disease surveillance;
+* invasive-species management;
+* conservation enforcement;
+* forest management;
+* coastal management;
+* ecological monitoring.
+
+State capacity is therefore essential to national conservation performance.
+
+However, the United States does not currently possess a comprehensive, standardized national dataset describing the workforce and organizational capacity of state conservation agencies.
+
+This represents a significant research gap.
+
+A national assessment should eventually collect, at minimum:
+
+* authorized positions;
+* filled positions;
+* vacancy rates;
+* turnover;
+* employee tenure;
+* occupational composition;
+* geographic distribution;
+* workload;
+* program responsibilities;
+* monitoring capacity;
+* enforcement capacity;
+* scientific capacity;
+* administrative capacity;
+* grant-management capacity;
+* contracting dependence;
+* budget;
+* dedicated versus discretionary funding;
+* training capacity.
+
+State comparisons should be made cautiously. A small state agency may require fewer employees because of its geographic scope, while a western state may manage enormous landscapes with relatively low population density.
+
+The relevant question is therefore not:
+
+**Which state has the largest conservation workforce?**
+
+It is:
+
+**Does the workforce correspond reasonably to the ecological responsibilities, geographic scale, workload, and statutory obligations of the jurisdiction?**
+
+---
+
+# 6. Tribal Conservation Capacity
+
+Tribal governments occupy a distinct position in the national conservation system.
+
+Their role encompasses:
+
+* fisheries;
+* wildlife;
+* water;
+* forests;
+* habitat;
+* cultural resources;
+* traditional ecological knowledge;
+* treaty and reserved rights;
+* restoration;
+* monitoring;
+* co-management;
+* subsistence resources.
+
+Tribal conservation capacity should not be treated merely as an extension of federal or state capacity.
+
+A national framework should instead recognize:
+
+**Sovereignty + Authority + Capacity + Partnership + Self-Determination**
+
+Capacity-building efforts must therefore account for Tribal priorities, governance structures, data sovereignty, treaty obligations, and culturally specific resource relationships.
+
+A future national dataset should identify Tribal capacity where information can appropriately be collected and shared, while respecting Tribal control over sensitive information.
+
+---
+
+# 7. Local and Regional Capacity
+
+Many conservation problems are ultimately implemented at scales below the state and federal level.
+
+Relevant institutions include:
+
+* counties;
+* municipalities;
+* watershed councils;
+* conservation districts;
+* irrigation districts;
+* regional planning organizations;
+* water utilities;
+* land trusts;
+* local parks departments;
+* regional habitat partnerships;
+* flood-control districts.
+
+These organizations can possess substantial practical influence despite relatively small staffs.
+
+For example, a watershed council may coordinate landowners across an entire watershed without directly possessing regulatory authority. A conservation district may implement thousands of acres of agricultural conservation through a small staff supported by federal programs.
+
+Local capacity therefore needs to be evaluated in terms of **network reach**, not simply organizational size.
+
+---
+
+# 8. Scientific and Technical Capacity
+
+Modern conservation increasingly requires a hybrid workforce.
+
+Traditional field expertise remains essential, but conservation organizations also require:
+
+* GIS;
+* remote sensing;
+* statistics;
+* database management;
+* ecological modeling;
+* programming;
+* data engineering;
+* machine learning;
+* hydrologic modeling;
+* population modeling;
+* spatial analysis;
+* forecasting;
+* project management.
+
+The appropriate model is not replacement of field science with computational science.
+
+It is:
+
+**Field Observation + Technical Analysis + Ecological Interpretation**
+
+A national conservation strategy should therefore treat scientific and technical capacity as complementary rather than competing forms of expertise.
+
+---
+
+# 9. Field Capacity
+
+Conservation ultimately occurs on landscapes and in ecosystems.
+
+Field capacity includes:
+
+* wildlife surveys;
+* fisheries sampling;
+* habitat assessment;
+* vegetation monitoring;
+* water sampling;
+* infrastructure inspection;
+* restoration implementation;
+* prescribed fire;
+* invasive-species control;
+* law enforcement;
+* landowner assistance;
+* ecological monitoring;
+* emergency response.
+
+Field capacity is particularly difficult to replace through centralized administrative systems.
+
+A program can retain adequate headquarters staffing while losing the field personnel necessary to collect information, supervise projects, maintain relationships, or respond to changing conditions.
+
+This suggests a useful distinction:
+
+**Administrative capacity is not interchangeable with field capacity.**
+
+---
+
+# 10. Administrative Capacity
+
+Administrative functions are often treated as overhead.
+
+For conservation purposes, that is misleading.
+
+Programs depend on:
+
+* procurement;
+* contracting;
+* grants management;
+* budgeting;
+* accounting;
+* human resources;
+* information technology;
+* records management;
+* legal review;
+* permitting;
+* compliance;
+* financial oversight.
+
+If these functions become inadequate, ecological programs can experience implementation delays even when funding and technical staff remain available.
+
+The Forest Service example illustrates this relationship. GAO reported that appropriations timing and staffing affected the agency's ability to prepare and implement timber sales, with continuing resolutions contributing to work delays and subsequent workload bottlenecks.
+
+The broader lesson is applicable beyond timber:
+
+**Administrative capacity is part of implementation capacity.**
+
+---
+
+# 11. Enforcement and Compliance Capacity
+
+Regulatory authority without sufficient enforcement capacity can produce a gap between formal requirements and actual environmental outcomes.
+
+Relevant functions include:
+
+* inspections;
+* investigations;
+* permitting compliance;
+* wildlife-law enforcement;
+* fisheries enforcement;
+* water-quality enforcement;
+* land-management compliance;
+* monitoring;
+* prosecution support;
+* reporting.
+
+Enforcement should nevertheless be evaluated according to outcomes rather than citation counts alone.
+
+Possible measures include:
+
+* inspection coverage;
+* response time;
+* repeat violations;
+* compliance rates;
+* detected versus estimated violations;
+* ecological harm prevented;
+* time to corrective action;
+* geographic coverage.
+
+---
+
+# 12. Contracting and Outsourcing
+
+Contractors and external partners can expand conservation capacity.
+
+They can provide:
+
+* specialized expertise;
+* seasonal labor;
+* engineering;
+* restoration implementation;
+* data processing;
+* surveys;
+* technical analysis;
+* construction;
+* monitoring.
+
+However, contracting creates several potential tradeoffs.
+
+### Benefits
+
+* flexibility;
+* specialized skills;
+* surge capacity;
+* reduced need for permanent positions;
+* access to specialized equipment.
+
+### Risks
+
+* loss of institutional knowledge;
+* contractor-management burden;
+* procurement delays;
+* fragmented responsibility;
+* reduced internal expertise;
+* dependence on external providers;
+* weaker continuity.
+
+The appropriate question is therefore not whether conservation should use contractors.
+
+It is:
+
+> **Which capabilities should remain internally essential, and which can reasonably be supplemented externally?**
+
+Critical institutional functions should generally retain sufficient internal expertise to define needs, supervise contractors, evaluate results, and retain organizational knowledge.
+
+---
+
+# 13. Recruitment and Retention
+
+Conservation agencies compete for specialized workers with:
+
+* universities;
+* consulting firms;
+* engineering firms;
+* environmental NGOs;
+* private industry;
+* other government agencies.
+
+Hard-to-fill positions may be particularly consequential where they require combinations of field experience and specialized technical expertise.
+
+Recruitment barriers can include:
+
+* compensation;
+* geographic isolation;
+* housing costs;
+* advancement opportunities;
+* seasonal employment;
+* lengthy hiring processes;
+* limited training opportunities;
+* workload;
+* competition for specialized skills.
+
+GAO has identified recruitment and retention challenges within FWS in geographically difficult locations and recommended improvements to recruitment strategies, training, and applicant outreach.
+
+This suggests that national workforce planning should examine not only the number of vacant positions but **which vacancies are difficult to replace and what mission functions they affect.**
+
+---
+
+# 14. Institutional Memory
+
+Institutional memory is a largely invisible component of conservation capacity.
+
+It includes:
+
+* knowledge of previous management decisions;
+* historical monitoring records;
+* relationships with landowners and Tribes;
+* understanding of previous restoration attempts;
+* knowledge of why earlier approaches succeeded or failed;
+* familiarity with local ecological conditions;
+* knowledge of legacy datasets;
+* institutional procedures.
+
+Turnover can therefore impose costs that do not appear in vacancy statistics.
+
+The loss of a long-serving employee can mean the loss of knowledge about:
+
+> what was tried, why it was tried, what happened, and what should not be repeated.
+
+Institutional memory should consequently be treated as a measurable conservation asset.
+
+Potential indicators include:
+
+* median employee tenure;
+* retirement exposure;
+* turnover rates;
+* succession plans;
+* documentation quality;
+* cross-training;
+* database continuity;
+* mentoring systems;
+* knowledge-transfer programs.
+
+---
+
+# 15. Workforce Training and Pipeline
+
+Long-term conservation capacity requires a pipeline rather than periodic emergency recruitment.
+
+Important training areas include:
+
+### Ecological
+
+* wildlife biology;
+* fisheries;
+* forestry;
+* ecology;
+* hydrology;
+* soil science;
+* restoration ecology.
+
+### Technical
+
+* GIS;
+* remote sensing;
+* statistics;
+* programming;
+* database management;
+* modeling;
+* AI-assisted analysis.
+
+### Operational
+
+* prescribed fire;
+* field sampling;
+* habitat management;
+* restoration;
+* infrastructure management;
+* safety.
+
+### Institutional
+
+* project management;
+* contracting;
+* grants administration;
+* adaptive management;
+* intergovernmental coordination;
+* Tribal engagement;
+* stakeholder engagement.
+
+The future conservation workforce will increasingly require **hybrid expertise**.
+
+---
+
+# 16. Geographic Distribution
+
+Conservation workforce requirements do not follow population distribution alone.
+
+A sparsely populated region may contain:
+
+* millions of acres of federal land;
+* critical wildlife habitat;
+* large watersheds;
+* major fisheries;
+* extensive wildfire risk;
+* migratory corridors;
+* sensitive ecosystems.
+
+Conversely, densely populated areas may require substantial capacity for:
+
+* urban watersheds;
+* stormwater;
+* wetlands;
+* coastal management;
+* habitat fragmentation;
+* environmental permitting;
+* restoration;
+* recreation management.
+
+Workforce allocation should therefore reflect:
+
+**Ecological workload + Administrative workload + Geographic scope + Regulatory responsibility**
+
+rather than population alone.
+
+---
+
+# 17. Existing Capacity Metrics
+
+The national conservation system already contains many workforce and capacity measures.
+
+### Federal
+
+* employment;
+* occupations;
+* vacancies;
+* accessions;
+* separations;
+* tenure;
+* pay grade;
+* location;
+* agency;
+* program.
+
+### Programmatic
+
+* acres managed;
+* permits processed;
+* projects completed;
+* monitoring sites;
+* inspections;
+* grants administered;
+* restoration projects;
+* species monitored.
+
+### Ecological
+
+* population trends;
+* habitat condition;
+* water quality;
+* fish abundance;
+* vegetation condition;
+* ecosystem function.
+
+The central problem is that these datasets are rarely integrated.
+
+A future performance system should connect:
+
+**Workforce → Capacity → Implementation → Ecological Outcome**
+
+This would allow researchers to ask whether capacity differences actually correspond to differences in conservation performance.
+
+---
+
+# 18. Institutional Capacity Bottlenecks
+
+The existing evidence supports the eight-bottleneck framework developed throughout American Conservation Renewal:
+
+| Bottleneck   | Capacity question                                     |
+| ------------ | ----------------------------------------------------- |
+| Knowledge    | Do institutions understand the ecological problem?    |
+| Diagnosis    | Can they identify its causes?                         |
+| Authority    | Can they legally act?                                 |
+| Capacity     | Do they have sufficient people and resources?         |
+| Coordination | Can relevant institutions work together?              |
+| Ecological   | Can the intervention overcome ecological constraints? |
+| Allocation   | Are competing uses limiting action?                   |
+| Durability   | Can gains be maintained over time?                    |
+
+Workforce shortages primarily affect the **Capacity** bottleneck, but they can propagate into the others.
+
+For example:
+
+**Staff shortage → reduced monitoring → weaker diagnosis → delayed intervention → poorer ecological response**
+
+Likewise:
+
+**Administrative shortage → contracting delays → project delays → missed ecological window**
+
+The relationship between staffing and outcomes is therefore indirect in many cases.
+
+---
+
+# 19. Preliminary National Findings
+
+### Finding 1 — Conservation capacity is distributed.
+
+No single institution possesses the workforce necessary to manage the country's entire conservation system.
+
+### Finding 2 — Headcount is an inadequate capacity metric.
+
+The relevant unit is mission capability, not employee count.
+
+### Finding 3 — Recent federal workforce reductions provide evidence of capacity risk.
+
+Recent GAO reviews document substantial workforce reductions at major natural-resource agencies and instances where agencies had not yet completed mission-based assessments of required staffing and skills.
+
+### Finding 4 — Specialized skills may matter more than aggregate staffing.
+
+A shortage of hydrologists, fisheries scientists, contracting specialists, fire personnel, GIS analysts, or enforcement officers can constrain an entire program even when overall staffing appears adequate.
+
+### Finding 5 — Administrative capacity is conservation capacity.
+
+Procurement, grants, contracting, finance, HR, and IT can determine whether ecological programs are actually implemented.
+
+### Finding 6 — Institutional memory has conservation value.
+
+Turnover can remove knowledge that is difficult to recreate through hiring or contracting.
+
+### Finding 7 — Partnerships expand capacity but do not eliminate the need for internal expertise.
+
+Government agencies still need sufficient staff to define objectives, manage partnerships, oversee contracts, interpret results, and maintain accountability.
+
+### Finding 8 — State and Tribal capacity remains a major national research gap.
+
+Federal workforce data are comparatively developed. Comparable national information for state, Tribal, local, and regional conservation capacity is much less standardized.
+
+### Finding 9 — Workforce capacity should be connected to ecological workload.
+
+A staffing number has little meaning without knowing the responsibilities assigned to that workforce.
+
+### Finding 10 — Strategic workforce planning should become a conservation performance function.
+
+The central question should be whether institutions have the right people, skills, organizational structure, and continuity to fulfill their responsibilities.
+
+---
+
+# 20. Proposed National Workforce Dataset
+
+American Conservation Renewal should eventually construct a standardized workforce-capacity dataset.
+
+### Table A — Workforce
+
+Fields:
+
+* institution_id
+* institution
+* jurisdiction
+* program
+* occupation
+* function
+* location
+* authorized_positions
+* filled_positions
+* vacancy_rate
+* turnover_rate
+* average_tenure
+* retirement_exposure
+* seasonal_positions
+* contractor_dependence
+* training_capacity
+* critical_skill
+* workload
+
+### Table B — Institutional Capacity
+
+Fields:
+
+* institution_id
+* statutory_responsibility
+* geographic_scope
+* ecological_scope
+* legal_authority
+* budget
+* staffing
+* technical_capacity
+* administrative_capacity
+* field_capacity
+* enforcement_capacity
+* monitoring_capacity
+* contracting_capacity
+* partnership_capacity
+* coordination_mechanisms
+* performance_measures
+* adaptive_management_mechanisms
+* continuity_mechanisms
+
+### Table C — Workload
+
+Fields:
+
+* program_id
+* geographic_area
+* acres
+* watersheds
+* species
+* permits
+* projects
+* monitoring_sites
+* inspections
+* grants
+* infrastructure
+* regulatory_responsibilities
+* annual_workload
+* workforce_required
+
+### Table D — Capacity Outcomes
+
+Fields:
+
+* program_id
+* implementation_rate
+* backlog
+* processing_time
+* monitoring_coverage
+* project_completion
+* ecological_indicator
+* outcome_trend
+* adaptive_response
+* persistence
+
+This structure would allow the project to move beyond describing workforce shortages toward testing whether capacity actually matters for ecological performance.
+
+---
+
+# 21. Research Gaps
+
+The national baseline identifies several major gaps requiring further investigation.
+
+1. What are current staffing levels across federal conservation agencies?
+2. Which occupations represent mission-critical shortages?
+3. What is the relationship between vacancies and workload?
+4. Which agencies have formal workforce-needs assessments?
+5. How much conservation capacity exists within state agencies?
+6. How should Tribal conservation capacity be measured without compromising sovereignty?
+7. Which functions are most dependent on contractors?
+8. Where is institutional memory most vulnerable?
+9. Which conservation occupations face the greatest retirement exposure?
+10. How do geographic staffing patterns correspond to ecological workload?
+11. What administrative functions create the largest implementation bottlenecks?
+12. Does increased staffing produce measurable improvements in implementation?
+13. Under what conditions does increased implementation produce ecological improvement?
+14. Which workforce investments have the highest lifecycle value?
+15. How should AI and automation change workforce composition rather than simply workforce size?
+
+---
+
+# 22. Preliminary Policy Hypotheses
+
+The baseline suggests several hypotheses for later testing.
+
+### H1 — Mission-based workforce planning is superior to across-the-board staffing targets.
+
+Staff requirements should be derived from responsibilities and workload.
+
+### H2 — Critical-skill shortages matter more than aggregate vacancies.
+
+### H3 — Administrative capacity should be treated as part of conservation capacity.
+
+### H4 — Internal expertise should be retained for mission-critical functions even where contracting is appropriate.
+
+### H5 — Institutional memory should be treated as a conservation asset.
+
+### H6 — Conservation agencies increasingly require hybrid ecological and computational expertise.
+
+### H7 — Workforce allocation should reflect ecological and administrative workload rather than population alone.
+
+### H8 — Partnerships increase effective capacity only when organizations possess sufficient coordination capacity.
+
+### H9 — Adaptive management requires organizational flexibility as well as scientific information.
+
+### H10 — Workforce investments should ultimately be evaluated against implementation and ecological outcomes.
+
+---
+
+# 23. Cross-Pillar Implications
+
+Institutional capacity connects directly to every preceding pillar.
+
+| Pillar                 | Critical capacity                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| Wildlife               | Biologists, recovery planners, enforcement, monitoring, private-land coordination   |
+| Fisheries              | Stock assessment, management, enforcement, habitat, Tribal coordination             |
+| Public Lands           | Planners, foresters, fire personnel, biologists, field managers                     |
+| Water                  | Hydrologists, engineers, permitting staff, enforcement, watershed coordinators      |
+| Restoration            | Project managers, contractors, scientists, landowner coordinators, monitoring staff |
+| Science & Data         | Scientists, statisticians, GIS specialists, data engineers, modelers                |
+| Institutional Capacity | Workforce, administration, coordination, continuity                                 |
+
+The emerging system is therefore:
+
+**Ecological Systems**
+→ Wildlife
+→ Fisheries
+→ Public Lands
+→ Water
+→ Restoration
+
+**Knowledge Infrastructure**
+→ Science
+→ Monitoring
+→ Data
+→ Assessment
+→ Learning
+
+**Institutional Infrastructure**
+→ Authority
+→ Workforce
+→ Capacity
+→ Coordination
+→ Funding
+→ Accountability
+
+Together:
+
+**KNOW → DIAGNOSE → AUTHORIZE → RESOURCE → CAPACITATE → COORDINATE → ACT → MEASURE → LEARN → ADAPT → MAINTAIN**
+
+---
+
+# 24. Baseline Conclusion
+
+The United States possesses a large and highly specialized conservation workforce distributed across federal, state, Tribal, local, academic, nonprofit, and private institutions.
+
+The central national problem is therefore not simply a shortage of conservation personnel.
+
+It is the difficulty of determining whether the system has **the right capacity, in the right places, with the right expertise, connected to the right authorities and workloads, for long enough to produce durable ecological outcomes.**
+
+Recent federal workforce changes make this question more immediate, but the underlying issue is broader than any particular administration or staffing episode. A durable conservation strategy needs a method for determining workforce requirements independent of short-term political or administrative cycles.
+
+The key transition is from:
+
+**How many people do we employ?**
+
+to:
+
+**What conservation responsibilities must be performed, what capacity is required to perform them, and what happens when that capacity is insufficient?**
+
+Institutional capacity should therefore be treated as a **performance variable**, not merely as administrative overhead.
+
+The next stage should test that proposition empirically.
