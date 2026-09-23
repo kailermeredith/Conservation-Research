@@ -1,0 +1,928 @@
+# Conservation Renewal Agenda
+
+## v0.7.9 — Performance & Accountability Case-Study Evidence Matrix
+
+### Purpose
+
+The preceding Performance & Accountability assessment established that the United States already possesses substantial performance-management infrastructure. Strategic planning, ecological monitoring, program evaluation, public reporting, and oversight mechanisms exist across federal conservation programs.
+
+The more important question is whether these components form functioning feedback loops.
+
+A conservation system can collect large quantities of information without using that information to change management. Conversely, a program can complete projects and meet administrative targets without demonstrating that ecological conditions improved. The purpose of this case-study matrix is therefore to examine how effectively selected conservation systems connect:
+
+**Objective → Baseline → Pressure → Authority → Resources → Capacity → Intervention → Measurement → Outcome → Attribution → Adaptation → Persistence**
+
+The central research question is:
+
+> **Where do existing conservation performance systems successfully close the loop from measurement to adaptation, and where does the loop break?**
+
+The cases below are not intended to rank programs. They represent different institutional configurations and ecological scales that allow the project to examine recurring performance patterns.
+
+---
+
+# 1. Case Study: Endangered Species Recovery
+
+### System
+
+The Endangered Species Act recovery system provides one of the clearest examples of a conservation program organized around an explicit biological objective: moving listed species toward recovery and, where appropriate, removal from federal protection.
+
+The U.S. Fish and Wildlife Service's recovery process includes planning, implementation, monitoring, five-year status reviews, potential delisting, and post-delisting monitoring. Five-year reviews use the best available scientific and commercial information to determine whether a species' status has changed.
+
+### Performance chain
+
+**Objective:** Recover listed species.
+
+**Baseline:** Species status, population condition, range, threats, habitat, and recovery criteria.
+
+**Pressure:** Habitat loss, exploitation, invasive species, disease, environmental change, demographic constraints, or combinations of threats.
+
+**Authority:** ESA listing, recovery planning, consultation, grants, regulation, acquisition, enforcement, and partnerships.
+
+**Resources:** Federal appropriations, grants, state and Tribal resources, private conservation, landowner programs, and partner organizations.
+
+**Capacity:** Species expertise, recovery teams, field personnel, monitoring, data systems, and partner networks.
+
+**Intervention:** Habitat protection/restoration, threat reduction, captive propagation where appropriate, disease management, passage improvements, translocations, regulation, and other species-specific actions.
+
+**Measurement:** Population abundance, distribution, demographic rates, habitat condition, threats, and recovery criteria.
+
+**Outcome:** Stabilization, improvement, downlisting, recovery, or delisting.
+
+**Attribution:** Variable. Species trajectories may be affected by multiple simultaneous interventions and external ecological pressures.
+
+**Adaptation:** Recovery plans can be revised as new information becomes available; five-year reviews provide recurring formal assessment.
+
+**Persistence:** Post-delisting monitoring provides a formal mechanism for assessing whether recovered species remain secure. ESA provisions require monitoring recovered species for at least five years after delisting.
+
+### Performance assessment
+
+**Loop status: Partially closed**
+
+The ESA system contains unusually explicit links between legal status, biological assessment, intervention, reassessment, and persistence.
+
+Its principal limitation is attribution. A species can improve without it being possible to isolate the contribution of a particular program, while a species can remain imperiled despite substantial implementation because external pressures or ecological constraints remain.
+
+### Key lesson
+
+**Legal status provides an important performance signal, but it should not substitute for continuous measurement of biological condition.**
+
+---
+
+# 2. Case Study: NOAA Fisheries Management
+
+### System
+
+Federal fisheries management provides one of the strongest examples of a recurring measurement-to-management feedback loop.
+
+NOAA Fisheries uses stock assessments to evaluate abundance and fishing impacts against reference points. The results inform regional fishery management councils and annual catch-limit recommendations. NOAA updates stock status quarterly as new assessments are completed.
+
+### Performance chain
+
+**Objective:** Prevent overfishing, maintain sustainable fisheries, and rebuild overfished stocks.
+
+**Baseline:** Stock abundance, fishing mortality, biological characteristics, ecosystem information, and reference points.
+
+**Pressure:** Fishing mortality and other ecological or environmental pressures.
+
+**Authority:** Magnuson-Stevens Act, regional councils, NOAA Fisheries, and associated management plans.
+
+**Resources:** Federal science and management budgets, state and partner data, fisheries monitoring, and industry information.
+
+**Capacity:** Stock assessment scientists, surveys, observers, data systems, analysts, managers, councils, and enforcement.
+
+**Intervention:** Annual catch limits, rebuilding plans, gear restrictions, seasons, area closures, quotas, and other management measures.
+
+**Measurement:** Stock assessments, landings, surveys, biological data, observer information, and fishing mortality.
+
+**Outcome:** Avoidance of overfishing, stock stabilization, rebuilding, or sustainable production.
+
+**Attribution:** Often stronger than in terrestrial conservation because the management variable—fishing mortality—is comparatively direct and measurable.
+
+**Adaptation:** New assessments can change stock status and management recommendations.
+
+**Persistence:** Recurring assessments and management cycles allow continued adjustment rather than treating rebuilding as a one-time endpoint.
+
+NOAA's Fish Stock Sustainability Index and broader assessment enterprise explicitly track both stock condition and the performance of the assessment system itself.
+
+### Performance assessment
+
+**Loop status: Relatively closed**
+
+The fisheries system demonstrates the value of a clearly defined ecological reference point connected to a recurring management decision.
+
+The loop is not perfect. Uncertainty, multispecies interactions, habitat limitations, environmental variability, international management, and competing objectives can complicate attribution and management response.
+
+### Key lesson
+
+**Performance systems become substantially stronger when ecological indicators are directly connected to recurring decisions that managers have the authority to change.**
+
+---
+
+# 3. Case Study: BLM Assessment, Inventory, and Monitoring
+
+### System
+
+The Bureau of Land Management's Assessment, Inventory, and Monitoring strategy was designed to generate standardized quantitative information on the condition and trend of public-land resources.
+
+BLM describes AIM as providing data and tools to guide policy actions, land uses, and adaptive management decisions.
+
+BLM's 2024 technical guidance establishes a particularly useful connection between monitoring and management. AIM data can be used in land-health evaluations, including selecting indicators, establishing benchmarks, determining whether standards are being achieved, and conducting causal-factor determinations when they are not.
+
+### Performance chain
+
+**Objective:** Maintain or improve land health while managing authorized uses.
+
+**Baseline:** Quantitative ecological indicators and land-health standards.
+
+**Pressure:** Grazing, recreation, invasive species, fire, development, climate-related changes, and other disturbances.
+
+**Authority:** Federal land-management statutes, land-use plans, grazing regulations, resource-management decisions, and agency authorities.
+
+**Resources:** BLM appropriations, field staff, monitoring crews, contractors, GIS, laboratories, and data systems.
+
+**Capacity:** Ecologists, rangeland specialists, soil scientists, GIS specialists, managers, and monitoring personnel.
+
+**Intervention:** Changes to permitted uses, restoration, grazing management, invasive-species control, vegetation treatments, and other management actions.
+
+**Measurement:** AIM indicators and other ecological data.
+
+**Outcome:** Achievement or movement toward land-health standards.
+
+**Attribution:** Potentially strong when causal-factor determinations identify relationships between management uses/disturbances and observed conditions.
+
+**Adaptation:** Management decisions can respond to land-health findings.
+
+**Persistence:** Repeated monitoring allows condition to be assessed through time rather than at a single project endpoint.
+
+### Performance assessment
+
+**Loop status: Relatively closed, but implementation-dependent**
+
+AIM is important because it addresses a problem found repeatedly throughout the project: monitoring is most useful when it is embedded within an explicit decision process.
+
+However, collecting standardized data does not itself guarantee management change. The effectiveness of the loop depends on whether field-level findings actually lead to appropriate decisions, resources, and implementation.
+
+### Key lesson
+
+**Standardized monitoring has substantially greater value when the institutional system specifies what happens after a threshold or benchmark is not met.**
+
+---
+
+# 4. Case Study: National Park Service Vital Signs
+
+### System
+
+The National Park Service Inventory & Monitoring Program uses 32 networks to monitor key ecological indicators, or "vital signs," across more than 280 parks. The program is designed to provide information on status and trends, detect emerging problems, and support management decisions.
+
+### Performance chain
+
+**Objective:** Preserve park resources unimpaired.
+
+**Baseline:** Inventories and long-term ecological monitoring.
+
+**Pressure:** Development outside park boundaries, invasive species, altered fire regimes, climate, visitor use, pollution, disease, and other stressors.
+
+**Authority:** NPS statutory mission, park management plans, regulations, and park-specific authorities.
+
+**Resources:** NPS appropriations, network funding, scientific staff, partners, and research programs.
+
+**Capacity:** Ecologists, statisticians, data managers, park resource specialists, and network scientists.
+
+**Intervention:** Resource management, invasive-species treatment, habitat restoration, fire management, species management, visitor management, and coordination with external jurisdictions.
+
+**Measurement:** Physical, chemical, biological, and ecological vital signs.
+
+**Outcome:** Improved or maintained ecological condition.
+
+**Attribution:** Variable because many parks are influenced by forces outside NPS jurisdiction.
+
+**Adaptation:** Monitoring is explicitly intended to inform management and planning.
+
+**Persistence:** Long-term monitoring creates a durable record of ecological change.
+
+### Performance assessment
+
+**Loop status: Strong measurement loop; variable management loop**
+
+NPS has substantial monitoring infrastructure and a clear institutional link between science and management.
+
+The major limitation arises where ecological pressures originate outside park boundaries. NPS can detect declining conditions without possessing authority over the underlying driver.
+
+This illustrates a recurring distinction in the American Conservation Renewal framework:
+
+> **The institution responsible for measuring an ecological problem may not be the institution capable of solving it.**
+
+### Key lesson
+
+**Monitoring capacity can exceed response authority.**
+
+---
+
+# 5. Case Study: Forest Service Forest-Plan Monitoring
+
+### System
+
+Forest planning incorporates implementation, effectiveness, and validation monitoring.
+
+Forest Service planning materials describe monitoring as a mechanism for determining whether plans are being implemented, whether desired conditions are occurring, and whether assumptions underlying the plan remain valid. Monitoring results can trigger changes to goals, objectives, standards, monitoring questions, or research priorities.
+
+### Performance chain
+
+**Objective:** Achieve desired ecological and social conditions through forest-plan implementation.
+
+**Baseline:** Forest condition, watershed condition, habitat, vegetation, disturbance regimes, and other plan-specific indicators.
+
+**Pressure:** Fire, insects, disease, development, climate, invasive species, vegetation departure, and management activities.
+
+**Authority:** Forest plans, federal land-management law, project-level decisions, and Forest Service authorities.
+
+**Resources:** Federal appropriations, workforce, partnerships, grants, and project funding.
+
+**Capacity:** Silviculture, ecology, hydrology, wildlife, fire, planning, GIS, and monitoring expertise.
+
+**Intervention:** Timber management, prescribed fire, restoration, habitat management, watershed work, recreation management, and other land-management actions.
+
+**Measurement:** Implementation, effectiveness, and validation monitoring.
+
+**Outcome:** Movement toward desired conditions.
+
+**Attribution:** Variable because forest ecosystems respond to management and external disturbances simultaneously.
+
+**Adaptation:** Monitoring is explicitly designed to inform plan changes and future management.
+
+**Persistence:** Forest plans and monitoring operate over long periods, although implementation can be affected by changing budgets, priorities, disturbances, and administrative capacity.
+
+### Performance assessment
+
+**Loop status: Structurally closed; operationally variable**
+
+The institutional architecture explicitly recognizes the need to connect monitoring with adaptive management.
+
+The critical question is therefore less whether the mechanism exists and more whether adequate staffing, funding, authority, and decision processes allow the mechanism to operate effectively.
+
+### Key lesson
+
+**A formal adaptive-management mechanism is only as functional as the institutional capacity available to act on its findings.**
+
+---
+
+# 6. Case Study: Chesapeake Bay Program
+
+### System
+
+The Chesapeake Bay provides a large-scale test of performance management under fragmented authority.
+
+The Bay restoration system involves seven jurisdictions plus federal agencies, local governments, organizations, and academic institutions. EPA and the jurisdictions use two-year milestones as recurring implementation checkpoints.
+
+### Performance chain
+
+**Objective:** Reduce pollution sufficiently to achieve applicable water-quality goals.
+
+**Baseline:** Nutrient and sediment loads, water-quality conditions, biological indicators, and watershed implementation status.
+
+**Pressure:** Agricultural runoff, wastewater, stormwater, atmospheric deposition, development, and other sources.
+
+**Authority:** EPA, state programs, local governments, federal partners, and watershed institutions.
+
+**Resources:** Federal and state programs, wastewater investment, agricultural conservation funding, local infrastructure, and partner resources.
+
+**Capacity:** Regulatory, technical, agricultural, wastewater, monitoring, modeling, and implementation capacity.
+
+**Intervention:** Nutrient controls, wastewater upgrades, agricultural best-management practices, stormwater controls, habitat restoration, and other measures.
+
+**Measurement:** Milestones, modeled pollutant reductions, water-quality indicators, and ecological indicators.
+
+**Outcome:** Reduced pollution and improving Bay and watershed conditions.
+
+**Attribution:** Difficult because multiple jurisdictions and sectors contribute simultaneously.
+
+**Adaptation:** Two-year milestone assessments provide recurring opportunities to identify gaps and adjust commitments. EPA's 2025 assessment continues this process.
+
+**Persistence:** Long-term restoration requires continued implementation after individual milestones are completed.
+
+### Performance assessment
+
+**Loop status: Multi-level and partially closed**
+
+The Chesapeake system has a sophisticated accountability structure. Its major challenge is not lack of measurement but translating distributed implementation into watershed-scale ecological improvement.
+
+The case demonstrates the difference between:
+
+**Implementation accountability**
+and
+**Ecological accountability.**
+
+A jurisdiction can complete a large number of actions while watershed-scale outcomes remain slower or more uncertain.
+
+### Key lesson
+
+**Cross-jurisdictional performance requires accountability at both the institutional level and the ecological-system level.**
+
+---
+
+# 7. Case Study: Comprehensive Everglades Restoration Plan
+
+### System
+
+The Comprehensive Everglades Restoration Plan provides one of the clearest examples of an explicitly designed adaptive-management system.
+
+The CERP Monitoring and Assessment Plan is intended to measure system-wide responses and support adaptive management. RECOVER's monitoring system uses ecological indicators and modeled expectations to assess whether restoration objectives are being achieved.
+
+### Performance chain
+
+**Objective:** Restore, preserve, and protect the south Florida ecosystem while accommodating other regional water-related needs.
+
+**Baseline:** Hydrologic, ecological, and water-management conditions.
+
+**Pressure:** Altered hydrology, water infrastructure, habitat loss, invasive species, development, and other pressures.
+
+**Authority:** Federal-state partnership under CERP and associated water-management authorities.
+
+**Resources:** Federal and state investment, project funding, technical expertise, and partner resources.
+
+**Capacity:** Hydrologists, ecologists, engineers, modelers, managers, and interagency science teams.
+
+**Intervention:** Water-management infrastructure, hydrologic restoration, habitat restoration, project operations, and related actions.
+
+**Measurement:** System-wide ecological and hydrologic monitoring.
+
+**Outcome:** Movement toward defined ecological and water-management objectives.
+
+**Attribution:** Complex because individual projects interact across a large ecosystem.
+
+**Adaptation:** Explicitly institutionalized through the CERP adaptive-management program.
+
+**Persistence:** System Status Reports and ongoing monitoring provide a mechanism for tracking progress against long-term objectives.
+
+### Performance assessment
+
+**Loop status: Designed as a closed adaptive loop**
+
+Everglades restoration demonstrates the value of making monitoring and adaptive management part of the program architecture rather than adding them after implementation begins.
+
+It also illustrates the difficulty of evaluating large ecosystems whose responses may occur over decades and whose outcomes depend on interactions among numerous projects.
+
+### Key lesson
+
+**Adaptive management is strongest when it is built into program design, governance, monitoring, and decision-making from the beginning.**
+
+---
+
+# 8. Case Study: Collaborative Forest Landscape Restoration Program
+
+### System
+
+The Collaborative Forest Landscape Restoration Program (CFLRP) was designed around landscape-scale restoration, collaborative governance, monitoring, and adaptive management.
+
+Forest Service reporting describes multiparty monitoring as a fundamental program requirement and emphasizes that monitoring results are intended to inform project prioritization and adaptation. Projects are required to assess impacts over extended periods.
+
+More recent Forest Service research continues to use monitoring to evaluate wildlife responses to restoration treatments and refine future treatments.
+
+### Performance chain
+
+**Objective:** Restore forest landscapes while reducing risks and improving ecological conditions.
+
+**Baseline:** Forest structure, fuels, habitat, wildfire risk, watershed conditions, and other landscape indicators.
+
+**Pressure:** Altered fire regimes, forest density, wildfire, insects, disease, and other disturbances.
+
+**Authority:** Forest Service land-management authorities and project-specific decisions.
+
+**Resources:** CFLRP funding and associated federal, state, local, Tribal, nonprofit, and private contributions.
+
+**Capacity:** Forest managers, scientists, contractors, collaborative groups, monitoring coordinators, and local partners.
+
+**Intervention:** Thinning, prescribed fire, habitat restoration, watershed treatments, and related actions.
+
+**Measurement:** Ecological indicators, treatment accomplishment, wildlife response, forest structure, wildfire outcomes, and other measures.
+
+**Outcome:** Movement toward desired landscape conditions.
+
+**Attribution:** More tractable at treatment and landscape scales than at broader ecosystem scales, but still complicated by wildfire and other disturbances.
+
+**Adaptation:** Collaborative monitoring explicitly supports refinement and prioritization of future work.
+
+**Persistence:** Long-term monitoring is necessary because forest restoration outcomes and ecological processes develop over many years.
+
+### Performance assessment
+
+**Loop status: Relatively closed**
+
+CFLRP is particularly useful because it connects funding, collaboration, implementation, monitoring, and adaptation.
+
+The program nevertheless demonstrates that monitoring cannot eliminate ecological uncertainty. Treatment effects can vary substantially among sites and ecosystems.
+
+### Key lesson
+
+**Landscape-scale programs benefit when collaboration and monitoring are treated as components of implementation rather than separate administrative activities.**
+
+---
+
+# 9. Case Study: State Wildlife Action Plans
+
+### System
+
+State Wildlife Action Plans provide a preventive conservation framework intended to identify species of greatest conservation need, their habitats and threats, and actions needed to maintain viable populations.
+
+The Fish and Wildlife Service reports that plans also identify monitoring approaches for measuring conservation effectiveness and enabling adaptive management.
+
+### Performance chain
+
+**Objective:** Prevent wildlife declines before species require emergency recovery under the ESA.
+
+**Baseline:** Species and habitat condition, distribution, threats, and conservation status.
+
+**Pressure:** Habitat loss, fragmentation, invasive species, disease, and other stressors.
+
+**Authority:** State wildlife agencies supported by federal State Wildlife Grants and other funding.
+
+**Resources:** State Wildlife Grants, state funding, partner resources, and competitive grants.
+
+**Capacity:** State biologists, habitat specialists, monitoring personnel, GIS staff, and partners.
+
+**Intervention:** Habitat protection, restoration, monitoring, invasive-species control, species management, and other preventive actions.
+
+**Measurement:** Species and habitat indicators.
+
+**Outcome:** Stabilized or improving populations and reduced risk of future imperilment.
+
+**Attribution:** Often difficult because preventive conservation attempts to alter trajectories before a species reaches an obvious crisis.
+
+**Adaptation:** Plans identify monitoring and adaptive-management mechanisms.
+
+**Persistence:** Long-term effectiveness depends on continued state implementation and funding.
+
+### Performance assessment
+
+**Loop status: Potentially closed; difficult to verify nationally**
+
+The SWAP system contains many of the correct components.
+
+Its principal performance challenge is that prevention produces a counterfactual outcome: success may mean that a species never becomes sufficiently imperiled to trigger a formal recovery system.
+
+### Key lesson
+
+**Preventive conservation requires performance measures capable of recognizing avoided decline, not merely visible recovery.**
+
+---
+
+# 10. Case Study: Federal Ecological Restoration Programs
+
+### System
+
+Federal restoration programs span many agencies and ecosystems, including aquatic restoration, habitat restoration, contaminated-site restoration, watershed restoration, forest restoration, and species-focused projects.
+
+DOI's Natural Resource Damage Assessment and Restoration program illustrates the institutional complexity involved. Its administrative structure coordinates biology, toxicology, natural-resource management, economics, law, funding, performance, and federal-state-Tribal relationships.
+
+### Performance chain
+
+**Objective:** Restore injured, degraded, or otherwise impaired ecological resources.
+
+**Baseline:** Pre-restoration condition, reference condition, injury assessment, or ecological objectives.
+
+**Pressure:** Contamination, physical disturbance, habitat loss, altered hydrology, species decline, or other stressors.
+
+**Authority:** Statutes, settlements, agency authorities, and restoration-specific authorities.
+
+**Resources:** Federal appropriations, settlements, natural-resource damages, grants, partner funding, and other sources.
+
+**Capacity:** Scientific, engineering, legal, administrative, contracting, and project-management expertise.
+
+**Intervention:** Habitat restoration, contamination remediation, passage improvements, hydrologic restoration, species actions, and other interventions.
+
+**Measurement:** Project completion, physical response, biological response, and ecosystem indicators.
+
+**Outcome:** Improved ecological function or resource condition.
+
+**Attribution:** Highly variable by project.
+
+**Adaptation:** Some programs use explicit monitoring and adaptive-management mechanisms; others remain more project-oriented.
+
+**Persistence:** Maintenance and long-term monitoring vary considerably.
+
+### Performance assessment
+
+**Loop status: Fragmented**
+
+The federal restoration landscape contains strong examples of closed-loop management but lacks a single universal architecture for measuring restoration performance across programs.
+
+This creates an important distinction:
+
+> **The United States has many restoration performance systems, but not necessarily one restoration performance system.**
+
+### Key lesson
+
+**A national restoration strategy needs common performance concepts without forcing every ecosystem or restoration method into identical metrics.**
+
+---
+
+# 11. Case Study: Cross-Jurisdictional Conservation Initiatives
+
+### System
+
+Many conservation problems are governed by multiple institutions simultaneously: migratory wildlife, interstate rivers, large watersheds, salmon and other anadromous species, marine fisheries, wildlife corridors, invasive species, and landscape-scale habitat.
+
+These systems frequently involve federal agencies, states, Tribes, local governments, private landowners, nonprofits, universities, and other organizations.
+
+### Performance chain
+
+**Objective:** Achieve ecological outcomes at the scale of the ecosystem or population.
+
+**Baseline:** Distributed across agencies and jurisdictions.
+
+**Pressure:** Distributed across jurisdictions.
+
+**Authority:** Distributed across jurisdictions.
+
+**Resources:** Distributed across funding systems.
+
+**Capacity:** Uneven among participating institutions.
+
+**Intervention:** Multiple simultaneous actions.
+
+**Measurement:** Often distributed across incompatible monitoring systems.
+
+**Outcome:** Emerges at the ecological-system level.
+
+**Attribution:** Particularly difficult because no single organization controls the complete causal chain.
+
+**Adaptation:** Depends on whether participating institutions have mechanisms for sharing information and changing their own actions.
+
+**Persistence:** Depends on continued cooperation and institutional durability.
+
+### Performance assessment
+
+**Loop status: Frequently fragmented**
+
+Cross-jurisdictional systems represent one of the largest structural challenges identified across the American Conservation Renewal project.
+
+The ecological system may have one trajectory while the institutions responsible for it have separate performance measures.
+
+This can produce a situation in which:
+
+* Agency A meets its implementation target.
+* Agency B meets its funding target.
+* State C meets its regulatory target.
+* Partnership D produces its monitoring report.
+* Yet the ecological system as a whole remains unchanged.
+
+This is not necessarily evidence that any individual institution failed. It may instead indicate that accountability has been designed around organizational boundaries rather than ecological boundaries.
+
+### Key lesson
+
+**Where ecological outcomes are jointly produced, performance accountability must include a system-level layer in addition to organizational accountability.**
+
+---
+
+# 12. Comparative Performance Matrix
+
+| Case                             | Ecological Scale     | Measurement | Decision Link          | Adaptation | Attribution       | Persistence | Principal Performance Pattern         |
+| -------------------------------- | -------------------- | ----------- | ---------------------- | ---------- | ----------------- | ----------- | ------------------------------------- |
+| ESA recovery                     | Species              | Strong      | Strong but complex     | Formal     | Difficult         | Formal      | Partially closed                      |
+| NOAA fisheries                   | Stock/fishery        | Strong      | Strong                 | Recurring  | Relatively strong | Recurring   | Relatively closed                     |
+| BLM AIM                          | Landscape/site       | Strong      | Explicit               | Available  | Variable          | Recurring   | Relatively closed                     |
+| NPS Vital Signs                  | Park/ecosystem       | Strong      | Strong internally      | Available  | Variable          | Strong      | Measurement strong; response variable |
+| Forest planning                  | Landscape            | Strong      | Formal                 | Formal     | Variable          | Long-term   | Structurally closed                   |
+| Chesapeake Bay                   | Watershed            | Strong      | Multi-jurisdictional   | Recurring  | Difficult         | Long-term   | Partially closed                      |
+| Everglades                       | Ecosystem            | Strong      | Strong but distributed | Explicit   | Difficult         | Strong      | Designed as closed loop               |
+| CFLRP                            | Landscape            | Strong      | Strong                 | Explicit   | Moderate          | Long-term   | Relatively closed                     |
+| SWAPs                            | Species/habitat      | Variable    | Moderate               | Formal     | Difficult         | Variable    | Preventive/partially closed           |
+| Federal restoration              | Project/ecosystem    | Variable    | Variable               | Variable   | Variable          | Variable    | Fragmented                            |
+| Cross-jurisdictional initiatives | Ecosystem/population | Variable    | Distributed            | Variable   | Very difficult    | Variable    | Frequently fragmented                 |
+
+---
+
+# Cross-Case Findings
+
+## 1. Measurement is not the same as performance management
+
+Across the cases, the United States has considerable ecological monitoring capacity.
+
+The more difficult question is what happens after information is produced.
+
+NOAA stock assessments, BLM AIM, NPS Vital Signs, CERP monitoring, and forest-plan monitoring all demonstrate that monitoring can be institutionally connected to management decisions.
+
+This suggests that the national problem is not simply insufficient monitoring.
+
+The relevant question is:
+
+> **Does new information have a defined pathway into a decision that can change management?**
+
+---
+
+## 2. The strongest systems define the decision before collecting the data
+
+The strongest cases tend to establish:
+
+1. What ecological condition matters.
+2. How that condition will be measured.
+3. What threshold or trajectory constitutes concern.
+4. Who has authority to respond.
+5. What actions are available.
+6. When the condition will be reassessed.
+
+This is particularly evident in fisheries management, BLM land-health evaluations, and CERP adaptive management.
+
+This produces a practical principle:
+
+> **Monitoring should be designed around decisions, not merely around data availability.**
+
+---
+
+## 3. Biological outcomes remain the essential bridge
+
+Administrative outputs are useful but incomplete.
+
+Examples include:
+
+* acres treated;
+* projects completed;
+* grants awarded;
+* plans completed;
+* assessments conducted;
+* monitoring sites established;
+* management actions implemented.
+
+These demonstrate activity.
+
+They do not necessarily demonstrate ecological improvement.
+
+The performance hierarchy should therefore remain:
+
+**Capacity → Implementation → Condition → Outcome → Persistence**
+
+rather than stopping at implementation.
+
+---
+
+## 4. Attribution becomes harder as ecological scale increases
+
+At the project or stock level, causal relationships can sometimes be relatively direct.
+
+At watershed, landscape, species-range, or ecosystem scales, multiple institutions and external pressures interact.
+
+This creates a continuum:
+
+**Direct intervention → Multiple interacting interventions → Distributed governance → System-wide ecological response**
+
+As movement along this continuum increases, attribution becomes more difficult.
+
+The appropriate response is not to abandon outcome measurement. It is to improve causal reasoning, comparison, monitoring design, and transparency about uncertainty.
+
+---
+
+## 5. Authority is a separate performance variable
+
+The NPS case illustrates a recurring problem.
+
+An institution may be capable of:
+
+* detecting a decline;
+* diagnosing a likely cause;
+* documenting the trend;
+
+while lacking authority over the primary driver.
+
+This suggests that conservation performance analysis must distinguish:
+
+**Knowledge failure**
+from
+**Authority failure.**
+
+A system should not necessarily judge an institution as ineffective merely because it cannot solve a problem outside its jurisdiction.
+
+Conversely, an ecological system cannot be considered well governed simply because every participating institution fulfilled its individual responsibilities.
+
+---
+
+## 6. Adaptive management is strongest when institutionalized
+
+Everglades restoration, CFLRP, forest planning, fisheries management, and BLM land-health processes all contain explicit mechanisms for using new information to revise future actions.
+
+The distinction is between:
+
+**Monitoring as reporting**
+
+and
+
+**Monitoring as management infrastructure.**
+
+The latter requires:
+
+* predefined decision points;
+* responsible authorities;
+* usable performance information;
+* resources for changing course;
+* institutional willingness to revise actions;
+* continued monitoring.
+
+---
+
+## 7. Long-term persistence is the least developed part of many performance systems
+
+Many conservation programs are well equipped to document:
+
+**What was funded?**
+
+**What was built?**
+
+**What was treated?**
+
+**What happened immediately afterward?**
+
+Fewer systems are equally capable of answering:
+
+**Did the ecological gain persist ten years later?**
+
+The ESA has a formal post-delisting mechanism, while long-term monitoring exists in programs such as NPS I&M and CFLRP.
+
+However, persistence should be treated as a general conservation-performance dimension rather than something relevant only to selected programs.
+
+---
+
+# A Six-Type Performance Loop Typology
+
+The cases suggest that conservation performance systems can be classified according to where feedback succeeds or fails.
+
+### Type 1 — Closed Adaptive Loop
+
+**Know → Diagnose → Act → Measure → Learn → Adapt**
+
+Characteristics:
+
+* explicit ecological objective;
+* defined indicators;
+* decision authority;
+* recurring measurement;
+* established adaptation mechanism.
+
+Examples include important elements of federal fisheries management and CERP.
+
+---
+
+### Type 2 — Measurement Loop
+
+**Know → Measure → Report**
+
+The system generates reliable ecological information but the connection to management decisions is weak, indirect, or discretionary.
+
+NPS monitoring can approach this condition when the monitored stressor is outside park authority.
+
+---
+
+### Type 3 — Implementation Loop
+
+**Plan → Fund → Act → Report**
+
+The system can demonstrate substantial activity but has weaker evidence that ecological outcomes followed.
+
+This pattern can occur in project-based restoration.
+
+---
+
+### Type 4 — Fragmented Loop
+
+**Know → Diagnose → Act**
+
+but different institutions control different stages.
+
+Cross-jurisdictional conservation frequently exhibits this structure.
+
+---
+
+### Type 5 — Delayed Loop
+
+**Act → Wait → Measure**
+
+Ecological responses occur so slowly that decision-makers may not receive meaningful feedback for years or decades.
+
+Large-scale forest, watershed, restoration, and ecosystem projects frequently face this condition.
+
+---
+
+### Type 6 — Broken Loop
+
+**Measure → Repeat**
+
+Evidence of declining or inadequate ecological condition accumulates without a corresponding change in management.
+
+This is the most consequential failure mode because it represents a breakdown between knowledge and action.
+
+Importantly, establishing that a loop is "broken" requires evidence that relevant information was available, decision-makers had meaningful authority and feasible alternatives, and the absence of response cannot be explained by legitimate uncertainty or external constraints.
+
+---
+
+# Revised Conservation Performance Architecture
+
+The case studies support refinement of the project's existing national architecture.
+
+The basic architecture remains:
+
+**KNOW → DIAGNOSE → AUTHORIZE → RESOURCE → CAPACITATE → COORDINATE → ACT → MEASURE → LEARN → ADAPT → MAINTAIN**
+
+But the case evidence suggests that two elements deserve greater emphasis.
+
+### First: DEFINE
+
+Before diagnosing or acting, conservation systems need an explicit statement of the ecological condition they are trying to achieve.
+
+### Second: VERIFY
+
+Recovery or project completion should not automatically be treated as durable success.
+
+The refined architecture is therefore:
+
+**KNOW → DEFINE → DIAGNOSE → AUTHORIZE → RESOURCE → CAPACITATE → COORDINATE → ACT → MEASURE → ATTRIBUTE → LEARN → ADAPT → VERIFY → MAINTAIN**
+
+Each stage represents a distinct institutional function.
+
+| Stage          | Core question                                        |
+| -------------- | ---------------------------------------------------- |
+| **Know**       | What is happening?                                   |
+| **Define**     | What condition are we trying to achieve?             |
+| **Diagnose**   | Why is the condition occurring?                      |
+| **Authorize**  | Who can act?                                         |
+| **Resource**   | What resources are required?                         |
+| **Capacitate** | Do responsible institutions have the ability to act? |
+| **Coordinate** | Who else must act?                                   |
+| **Act**        | What intervention is implemented?                    |
+| **Measure**    | What changed?                                        |
+| **Attribute**  | What contributed to the change?                      |
+| **Learn**      | What does the evidence tell us?                      |
+| **Adapt**      | What should change?                                  |
+| **Verify**     | Did the improvement persist?                         |
+| **Maintain**   | What is required to sustain it?                      |
+
+---
+
+# Central Finding
+
+The case-study evidence substantially strengthens the project's central performance argument.
+
+The United States does not primarily suffer from a complete absence of conservation measurement, evaluation, or accountability mechanisms. In many areas, it has sophisticated systems for collecting information and evaluating implementation.
+
+The more persistent weakness is **connectivity between functions**.
+
+Information may not reach the institution with authority to act.
+
+Authority may exist without adequate funding.
+
+Funding may exist without sufficient implementation capacity.
+
+Implementation may occur without adequate ecological measurement.
+
+Ecological change may be measured without reliable attribution.
+
+Evidence of failure may exist without an established mechanism for adaptation.
+
+And ecological improvement may occur without a durable mechanism for maintaining it.
+
+The performance problem can therefore be represented as a series of potential conversion failures:
+
+**Information → Decision**
+
+**Decision → Resources**
+
+**Resources → Capacity**
+
+**Capacity → Action**
+
+**Action → Ecological Response**
+
+**Ecological Response → Learning**
+
+**Learning → Adaptation**
+
+**Adaptation → Persistence**
+
+A national conservation strategy should consequently be evaluated not simply by asking whether each component exists.
+
+It should ask whether the components **work together**.
+
+---
+
+# Implication for the Conservation Renewal Agenda
+
+The performance system should not become another layer of reporting imposed on conservation agencies.
+
+Instead, performance management should function as connective infrastructure.
+
+The objective should be to make it easier to answer five questions:
+
+1. **What ecological condition are we trying to achieve?**
+2. **What is preventing us from achieving it?**
+3. **Who has the authority and capacity to address that constraint?**
+4. **Did the intervention actually improve ecological condition?**
+5. **Did the improvement persist?**
+
+This creates a more useful definition of conservation accountability:
+
+> **Conservation accountability is the ability to connect ecological objectives to responsible institutions, resources, actions, measurable outcomes, adaptive decisions, and durable ecological gains.**
+
+That definition is broader than conventional program performance management but narrower than general environmental governance. It keeps the focus on the central question of American Conservation Renewal:
+
+**Can the conservation system reliably convert knowledge, authority, resources, and coordinated action into durable ecological outcomes?**
+
+The evidence examined here suggests that the United States already possesses many of the components required to do so.
+
+The larger opportunity is to connect them.
