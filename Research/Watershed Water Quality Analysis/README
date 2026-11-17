@@ -10,7 +10,7 @@ output: html_document
 
 This project examines nitrate concentrations across three hypothetical watersheds and explores the relationship between nitrate concentration and water temperature.
 
-The analysis was conducted in R using `dplyr` for data manipulation and `ggplot2` for visualization. It demonstrates a reproducible workflow for environmental monitoring data, including data validation, descriptive statistics, visualization, correlation, and linear regression.
+The analysis was conducted in R using `dplyr` for data manipulation and `ggplot2` for visualization. It demonstrates a reproducible workflow for environmental monitoring data, including data validation, descriptive statistics, and visualization.
 
 **Important:** All observations in this project are simulated for educational and portfolio-development purposes. They do not represent actual environmental monitoring results.
 
