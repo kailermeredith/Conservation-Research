@@ -1,0 +1,98 @@
+---
+title: "README"
+author: "Kailer Meredith"
+date: "2026-11-17"
+output: html_document
+---
+# Environmental Monitoring: Watershed Water-Quality Analysis
+
+## Project Overview
+
+This project examines nitrate concentrations across three hypothetical watersheds and explores the relationship between nitrate concentration and water temperature.
+
+The analysis was conducted in R using `dplyr` for data manipulation and `ggplot2` for visualization. It demonstrates a reproducible workflow for environmental monitoring data, including data validation, descriptive statistics, visualization, correlation, and linear regression.
+
+**Important:** All observations in this project are simulated for educational and portfolio-development purposes. They do not represent actual environmental monitoring results.
+
+## Research Objectives
+
+1. Compare nitrate concentrations across three watersheds.
+2. Calculate descriptive statistics for each watershed.
+3. Explore the relationship between water temperature and nitrate concentration.
+4. Demonstrate data-quality checks and reproducible analytical practices.
+
+## Dataset
+
+The simulated dataset contains nine observations across three watersheds.
+
+| Variable | Description | Unit |
+|---|---|---|
+| Site | Monitoring site identifier | N/A |
+| Watershed | Watershed classification | N/A |
+| Nitrate | Nitrate concentration | mg/L |
+| Temperature | Water temperature | °C |
+
+## Analytical Workflow
+
+The project includes the following steps:
+
+1. Dataset creation and inspection.
+2. Data-quality assessment, including missing values and duplicate records.
+3. Automated validation checks for implausible values and unexpected categories.
+4. Grouped descriptive statistics by watershed.
+5. Data visualization using `ggplot2`.
+6. Pearson correlation and linear regression.
+7. Export of datasets, statistical summaries, and visualizations.
+
+## Key Findings
+
+- The South watershed had the highest average nitrate concentration at **3.10 mg/L**.
+- The North watershed had the lowest average nitrate concentration at **1.80 mg/L**.
+- Nitrate concentration and water temperature demonstrated a strong positive linear association (**r ≈ 0.996**).
+- The simulated linear regression produced an R-squared value of approximately **0.992**.
+
+These findings describe the simulated dataset only and should not be interpreted as evidence of actual watershed conditions or causal relationships.
+
+## Limitations
+
+Several limitations should be considered:
+
+- The dataset contains only nine observations across three watersheds.
+- Each watershed has only three monitoring observations.
+- Only nitrate concentration and water temperature were examined.
+- Potential explanatory variables, including precipitation, land use, agricultural activity, and seasonal variation, were not included.
+- The simulated dataset cannot establish real-world environmental relationships.
+
+## Project Structure
+
+```text
+Watershed_Water_Quality_Analysis/
+├── data/
+│   └── monitoring_data.csv
+├── scripts/
+│   └── watershed_analysis.R
+├── outputs/
+│   ├── watershed_summary.csv
+│   ├── average_nitrate_by_watershed.png
+│   └── nitrate_temperature_scatterplot.png
+└── README.md
+```
+
+## Tools and Packages
+
+- R
+- RStudio
+- dplyr
+- ggplot2
+
+## Reproducing the Analysis
+
+1. Open the project in RStudio.
+2. Ensure that `dplyr` and `ggplot2` are installed.
+3. Open `scripts/watershed_analysis.R`.
+4. Run the script.
+5. Review the generated files in the `data/` and `outputs/` directories.
+
+## Purpose
+
+This project demonstrates foundational skills in environmental data analysis, statistical interpretation, data validation, visualization, and technical documentation.
