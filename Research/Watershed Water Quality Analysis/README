@@ -65,7 +65,7 @@ Several limitations should be considered:
 
 ## Project Structure
 
-```text
+```
 Watershed_Water_Quality_Analysis/
 ├── data/
 │   └── monitoring_data.csv
