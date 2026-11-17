@@ -6,6 +6,8 @@
 # Dataset: Simulated environmental monitoring observations
 # Software: R
 # ==========================================================
+library(dplyr)
+library(ggplot2)
 
 monitoring <- data.frame(
   Site = c("A01", "A02", "A03",
@@ -100,6 +102,21 @@ nitrate_temp_plot <- ggplot(
   theme_minimal()
 
 print(nitrate_temp_plot)
+
+nitrate_temperature_correlation <- cor(
+  monitoring$Temperature,
+  monitoring$Nitrate,
+  method = "pearson"
+)
+
+print(nitrate_temperature_correlation)
+
+nitrate_model <- lm(
+  Nitrate ~ Temperature,
+  data = monitoring
+)
+
+summary(nitrate_model)
 
 ggsave(
   "outputs/average_nitrate_by_watershed.png",
